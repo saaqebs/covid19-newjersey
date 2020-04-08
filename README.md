@@ -22,14 +22,14 @@ The "Date" column is structured as `{month name}-{day}-{year}`. The "NJ Municipa
 
 This data is collected everyday from nj.com and stored into a [JSON file](https://github.com/saaqebs/covid19-newjersey/edit/master/nj_covid19_today.json). The file structure is stored as such:
 
-```json
+```
 {
     "last fetched": "april-7-2020",
     "data": {
         "allendale": 27, 
         "alpine": 15, 
         "bergenfield": 357,
-        // ...
+        ...
     }
 }
 
