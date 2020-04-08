@@ -29,7 +29,7 @@ This data is collected everyday from nj.com and stored into a [JSON file](https:
         "allendale": 27, 
         "alpine": 15, 
         "bergenfield": 357,
-        ...
+        // ...
     }
 }
 
