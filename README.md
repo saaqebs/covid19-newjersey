@@ -41,8 +41,8 @@ The format of `last fetched` is `{month name}-{day}-{year}`. However, `data` is 
 
 ## Additional Notes
 
-Some counties have not been reporting the number of cases per township, creating a discord between other counties. As of April 6th, only Mercer County and Atlantic County have not posted their numbers while the rest have.
+Some counties have not been reporting the number of cases per township, creating a discord between other counties. As of April 8th, only Atlantic County has not posted their numbers while the rest have.
 
-Most counties with high rates of infection have been posting daily, but other counties have been updating every few days.
+Most counties with high rates of infection have been posting daily, but other counties have been updating a variable amount of days.
 
-Visit NJ.com/coronavirus for more information regarding COVID-19 in New Jersey.
+Visit [NJ.com/coronavirus](https://www.nj.com/coronavirus/) for more information regarding COVID-19 in New Jersey.
