@@ -1,0 +1,4842 @@
+Date,NJ Municipality,Number of Cases
+march-25-2020,allendale,4
+march-25-2020,alpine,1
+march-25-2020,bergenfield,26
+march-25-2020,bogota,8
+march-25-2020,carlstadt,6
+march-25-2020,cliffside park,12
+march-25-2020,closter,3
+march-25-2020,cresskill,2
+march-25-2020,demarest,3
+march-25-2020,dumont,15
+march-25-2020,east rutherford,1
+march-25-2020,edgewater,10
+march-25-2020,elmwood park,12
+march-25-2020,emerson,2
+march-25-2020,englewood,36
+march-25-2020,englewood cliffs,5
+march-25-2020,fair lawn,31
+march-25-2020,fairview,5
+march-25-2020,fort lee,14
+march-25-2020,franklin lakes,14
+march-25-2020,garfield,15
+march-25-2020,glen rock,9
+march-25-2020,hackensack,31
+march-25-2020,hasbrouck heights,7
+march-25-2020,haworth,2
+march-25-2020,hillsdale,3
+march-25-2020,ho-ho-kus,6
+march-25-2020,leonia,7
+march-25-2020,little ferry,6
+march-25-2020,lodi,14
+march-25-2020,lyndhurst,9
+march-25-2020,mahwah,13
+march-25-2020,maywood,7
+march-25-2020,midland park,1
+march-25-2020,montvale,8
+march-25-2020,moonachie,2
+march-25-2020,new milford,18
+march-25-2020,north arlington,2
+march-25-2020,norwood,6
+march-25-2020,oakland,6
+march-25-2020,old tappan,8
+march-25-2020,oradell,9
+march-25-2020,palisades park,6
+march-25-2020,paramus,19
+march-25-2020,park ridge,1
+march-25-2020,ramsey,4
+march-25-2020,ridgefield,5
+march-25-2020,ridgefield park,9
+march-25-2020,ridgewood,20
+march-25-2020,river edge,5
+march-25-2020,river vale,5
+march-25-2020,rochelle park,1
+march-25-2020,rutherford,5
+march-25-2020,saddle brook,7
+march-25-2020,saddle river,2
+march-25-2020,south hackensack,2
+march-25-2020,teaneck,145
+march-25-2020,tenafly,7
+march-25-2020,upper saddle river,4
+march-25-2020,waldwick,2
+march-25-2020,wallington,1
+march-25-2020,washington township,8
+march-25-2020,westwood,5
+march-25-2020,wood-ridge,7
+march-25-2020,woodcliff lake,8
+march-25-2020,wyckoff,9
+march-25-2020,barrington,2
+march-25-2020,bellmawr,1
+march-25-2020,camden,3
+march-25-2020,cherry hill,18
+march-25-2020,clementon,2
+march-25-2020,collingswood,2
+march-25-2020,gloucester township,4
+march-25-2020,haddon township,2
+march-25-2020,haddonfield,2
+march-25-2020,lindenwold,1
+march-25-2020,magnolia,1
+march-25-2020,pennsauken township,2
+march-25-2020,pine hill,2
+march-25-2020,somerdale,2
+march-25-2020,voorhees township,3
+march-25-2020,waterford township,3
+march-25-2020,winslow township,6
+march-25-2020,deptford township,1
+march-25-2020,east greenwich township,1
+march-25-2020,glassboro,5
+march-25-2020,harrison,3
+march-25-2020,logan township,1
+march-25-2020,monroe township,17
+march-25-2020,wenonah,1
+march-25-2020,west deptford township,2
+march-25-2020,woolwich township,3
+march-25-2020,bethlehem township,1
+march-25-2020,bloomsbury,1
+march-25-2020,califon,1
+march-25-2020,clinton township,3
+march-25-2020,delaware township,2
+march-25-2020,flemington,1
+march-25-2020,hampton,1
+march-25-2020,holland township,1
+march-25-2020,kingwood township,1
+march-25-2020,lambertville,2
+march-25-2020,raritan township,8
+march-25-2020,readington township,3
+march-25-2020,tewksbury township,1
+march-25-2020,carteret,7
+march-25-2020,dunellen,1
+march-25-2020,cranbury,2
+march-25-2020,east brunswick,17
+march-25-2020,edison,19
+march-25-2020,helmetta,1
+march-25-2020,highland park,6
+march-25-2020,metuchen,1
+march-25-2020,middlesex,3
+march-25-2020,new brunswick,8
+march-25-2020,north brunswick,9
+march-25-2020,old bridge township,25
+march-25-2020,perth amboy,15
+march-25-2020,piscataway,17
+march-25-2020,plainsboro township,6
+march-25-2020,sayreville,14
+march-25-2020,south amboy,4
+march-25-2020,south brunswick,10
+march-25-2020,south plainfield,1
+march-25-2020,south river,2
+march-25-2020,spotswood,3
+march-25-2020,woodbridge township,33
+march-25-2020,barnegat township,6
+march-25-2020,barnegat light,1
+march-25-2020,bay head,1
+march-25-2020,berkeley township,6
+march-25-2020,brick township,14
+march-25-2020,jackson township,23
+march-25-2020,lacey township,4
+march-25-2020,lakewood township,84
+march-25-2020,little egg harbor township,2
+march-25-2020,long beach township,2
+march-25-2020,manchester township,6
+march-25-2020,plumsted township,2
+march-25-2020,point pleasant beach,1
+march-25-2020,seaside park,1
+march-25-2020,south toms river,1
+march-25-2020,surf city,1
+march-25-2020,stafford township,4
+march-25-2020,toms river,28
+march-25-2020,bedminster,6
+march-25-2020,bernards township,7
+march-25-2020,bernardsville,6
+march-25-2020,bound brook,3
+march-25-2020,branchburg,11
+march-25-2020,bridgewater township,13
+march-25-2020,franklin,30
+march-25-2020,green brook township,5
+march-25-2020,hillsborough township,11
+march-25-2020,manville,4
+march-25-2020,montgomery,10
+march-25-2020,north plainfield,11
+march-25-2020,peapack and gladstone,2
+march-25-2020,raritan,3
+march-25-2020,somerville,3
+march-25-2020,south bound brook,1
+march-25-2020,warren township,10
+march-25-2020,watchung,3
+march-25-2020,andover township,1
+march-25-2020,branchville,1
+march-25-2020,byram township,1
+march-25-2020,frankford township,3
+march-25-2020,hamburg,1
+march-25-2020,hardyston township,1
+march-25-2020,hopatcong,2
+march-25-2020,vernon township,1
+march-25-2020,newton,1
+march-25-2020,sparta township,7
+march-25-2020,stanhope,1
+march-26-2020,allendale,6
+march-26-2020,alpine,1
+march-26-2020,bergenfield,41
+march-26-2020,bogota,12
+march-26-2020,carlstadt,7
+march-26-2020,cliffside park,13
+march-26-2020,closter,3
+march-26-2020,cresskill,3
+march-26-2020,demarest,5
+march-26-2020,dumont,16
+march-26-2020,east rutherford,3
+march-26-2020,edgewater,10
+march-26-2020,elmwood park,16
+march-26-2020,emerson,2
+march-26-2020,englewood,70
+march-26-2020,englewood cliffs,5
+march-26-2020,fair lawn,31
+march-26-2020,fairview,6
+march-26-2020,fort lee,18
+march-26-2020,franklin lakes,17
+march-26-2020,garfield,19
+march-26-2020,glen rock,11
+march-26-2020,hackensack,39
+march-26-2020,hasbrouck heights,9
+march-26-2020,haworth,3
+march-26-2020,hillsdale,3
+march-26-2020,ho-ho-kus,6
+march-26-2020,leonia,7
+march-26-2020,little ferry,6
+march-26-2020,lodi,20
+march-26-2020,lyndhurst,14
+march-26-2020,mahwah,13
+march-26-2020,maywood,8
+march-26-2020,midland park,1
+march-26-2020,montvale,8
+march-26-2020,moonachie,2
+march-26-2020,new milford,23
+march-26-2020,north arlington,4
+march-26-2020,northvale,1
+march-26-2020,norwood,8
+march-26-2020,oakland,8
+march-26-2020,old tappan,8
+march-26-2020,oradell,9
+march-26-2020,palisades park,7
+march-26-2020,paramus,21
+march-26-2020,park ridge,4
+march-26-2020,ramsey,7
+march-26-2020,ridgefield,6
+march-26-2020,ridgefield park,11
+march-26-2020,ridgewood,24
+march-26-2020,river edge,9
+march-26-2020,river vale,5
+march-26-2020,rochelle park,3
+march-26-2020,rutherford,6
+march-26-2020,saddle brook,7
+march-26-2020,saddle river,2
+march-26-2020,south hackensack,2
+march-26-2020,teaneck,166
+march-26-2020,tenafly,8
+march-26-2020,upper saddle river,5
+march-26-2020,waldwick,4
+march-26-2020,wallington,4
+march-26-2020,washington township,8
+march-26-2020,westwood,5
+march-26-2020,wood-ridge,9
+march-26-2020,woodcliff lake,9
+march-26-2020,wyckoff,11
+march-26-2020,burlington township,4
+march-26-2020,cinnaminson township,3
+march-26-2020,chesterfield township,2
+march-26-2020,delanco township,3
+march-26-2020,delran township,2
+march-26-2020,eastampton township,1
+march-26-2020,evesham township,9
+march-26-2020,florence township,2
+march-26-2020,lumberton township,3
+march-26-2020,mansfield township,3
+march-26-2020,medford lakes,1
+march-26-2020,mount laurel,8
+march-26-2020,moorestown,4
+march-26-2020,pemberton township,2
+march-26-2020,riverton,2
+march-26-2020,southampton township,1
+march-26-2020,tabernacle township,1
+march-26-2020,willingboro township,3
+march-26-2020,barrington,2
+march-26-2020,bellmawr,1
+march-26-2020,camden,3
+march-26-2020,cherry hill,18
+march-26-2020,clementon,2
+march-26-2020,collingswood,2
+march-26-2020,gloucester township,4
+march-26-2020,haddon township,2
+march-26-2020,haddonfield,2
+march-26-2020,lindenwold,1
+march-26-2020,magnolia,1
+march-26-2020,pennsauken township,2
+march-26-2020,pine hill,2
+march-26-2020,somerdale,2
+march-26-2020,voorhees township,3
+march-26-2020,waterford township,3
+march-26-2020,winslow township,6
+march-26-2020,deptford township,3
+march-26-2020,east greenwich township,1
+march-26-2020,glassboro,6
+march-26-2020,harrison,3
+march-26-2020,logan township,1
+march-26-2020,monroe township,19
+march-26-2020,wenonah,1
+march-26-2020,west deptford township,2
+march-26-2020,woodbury,2
+march-26-2020,woolwich township,5
+march-26-2020,bethlehem township,2
+march-26-2020,bloomsbury,1
+march-26-2020,califon,2
+march-26-2020,clinton township,4
+march-26-2020,delaware township,2
+march-26-2020,flemington,5
+march-26-2020,glen gardner,1
+march-26-2020,hampton,2
+march-26-2020,holland township,1
+march-26-2020,kingwood township,1
+march-26-2020,lambertville,2
+march-26-2020,raritan township,9
+march-26-2020,readington township,3
+march-26-2020,tewksbury township,1
+march-26-2020,carteret,7
+march-26-2020,dunellen,1
+march-26-2020,cranbury,2
+march-26-2020,east brunswick,19
+march-26-2020,edison,23
+march-26-2020,helmetta,2
+march-26-2020,highland park,6
+march-26-2020,jamesburg,1
+march-26-2020,metuchen,1
+march-26-2020,middlesex,3
+march-26-2020,new brunswick,9
+march-26-2020,north brunswick,11
+march-26-2020,old bridge township,28
+march-26-2020,perth amboy,16
+march-26-2020,piscataway,17
+march-26-2020,plainsboro township,7
+march-26-2020,sayreville,14
+march-26-2020,south amboy,4
+march-26-2020,south brunswick,13
+march-26-2020,south plainfield,3
+march-26-2020,south river,5
+march-26-2020,spotswood,3
+march-26-2020,woodbridge township,39
+march-26-2020,barnegat township,10
+march-26-2020,barnegat light,1
+march-26-2020,bay head,1
+march-26-2020,berkeley township,17
+march-26-2020,brick township,22
+march-26-2020,island heights,1
+march-26-2020,jackson township,35
+march-26-2020,lacey township,10
+march-26-2020,lakewood township,141
+march-26-2020,little egg harbor township,3
+march-26-2020,long beach township,2
+march-26-2020,manchester township,11
+march-26-2020,plumsted township,3
+march-26-2020,point pleasant beach,1
+march-26-2020,seaside park,1
+march-26-2020,ship bottom,1
+march-26-2020,south toms river,1
+march-26-2020,surf city,1
+march-26-2020,stafford township,5
+march-26-2020,toms river,40
+march-26-2020,bloomingdale,3
+march-26-2020,clifton,65
+march-26-2020,haledon,2
+march-26-2020,hawthorne,11
+march-26-2020,little falls,3
+march-26-2020,north haledon,2
+march-26-2020,passaic,36
+march-26-2020,paterson,67
+march-26-2020,pompton lakes,5
+march-26-2020,prospect park,3
+march-26-2020,ringwood,8
+march-26-2020,totowa,4
+march-26-2020,wanaque,9
+march-26-2020,wayne,41
+march-26-2020,west milford,8
+march-26-2020,woodland park,9
+march-26-2020,bedminster,7
+march-26-2020,bernards township,12
+march-26-2020,bernardsville,8
+march-26-2020,bound brook,5
+march-26-2020,branchburg,12
+march-26-2020,bridgewater township,20
+march-26-2020,franklin,41
+march-26-2020,green brook township,4
+march-26-2020,hillsborough township,18
+march-26-2020,manville,7
+march-26-2020,millstone,1
+march-26-2020,montgomery,11
+march-26-2020,north plainfield,12
+march-26-2020,peapack and gladstone,2
+march-26-2020,raritan,3
+march-26-2020,somerville,3
+march-26-2020,south bound brook,3
+march-26-2020,warren township,12
+march-26-2020,watchung,7
+march-26-2020,andover township,1
+march-26-2020,branchville,1
+march-26-2020,byram township,1
+march-26-2020,frankford township,5
+march-26-2020,hamburg,1
+march-26-2020,hardyston township,3
+march-26-2020,hopatcong,2
+march-26-2020,vernon township,1
+march-26-2020,newton,2
+march-26-2020,sandyston township,1
+march-26-2020,sparta township,8
+march-26-2020,stanhope,1
+march-26-2020,wantage township,1
+march-27-2020,allendale,6
+march-27-2020,alpine,3
+march-27-2020,bergenfield,72
+march-27-2020,bogota,16
+march-27-2020,carlstadt,9
+march-27-2020,cliffside park,22
+march-27-2020,closter,4
+march-27-2020,cresskill,3
+march-27-2020,demarest,6
+march-27-2020,dumont,24
+march-27-2020,east rutherford,5
+march-27-2020,edgewater,19
+march-27-2020,elmwood park,20
+march-27-2020,emerson,3
+march-27-2020,englewood,70
+march-27-2020,englewood cliffs,5
+march-27-2020,fair lawn,31
+march-27-2020,fairview,8
+march-27-2020,fort lee,34
+march-27-2020,franklin lakes,21
+march-27-2020,garfield,37
+march-27-2020,glen rock,12
+march-27-2020,hackensack,67
+march-27-2020,hasbrouck heights,16
+march-27-2020,haworth,3
+march-27-2020,hillsdale,6
+march-27-2020,ho-ho-kus,8
+march-27-2020,leonia,8
+march-27-2020,little ferry,11
+march-27-2020,lodi,34
+march-27-2020,lyndhurst,27
+march-27-2020,mahwah,20
+march-27-2020,maywood,9
+march-27-2020,midland park,2
+march-27-2020,montvale,9
+march-27-2020,moonachie,6
+march-27-2020,new milford,36
+march-27-2020,north arlington,12
+march-27-2020,northvale,4
+march-27-2020,norwood,8
+march-27-2020,oakland,9
+march-27-2020,old tappan,13
+march-27-2020,oradell,11
+march-27-2020,palisades park,12
+march-27-2020,paramus,29
+march-27-2020,park ridge,6
+march-27-2020,ramsey,8
+march-27-2020,ridgefield,12
+march-27-2020,ridgefield park,17
+march-27-2020,ridgewood,32
+march-27-2020,river edge,12
+march-27-2020,river vale,5
+march-27-2020,rochelle park,5
+march-27-2020,rutherford,12
+march-27-2020,saddle brook,8
+march-27-2020,saddle river,4
+march-27-2020,south hackensack,6
+march-27-2020,teaneck,213
+march-27-2020,tenafly,11
+march-27-2020,upper saddle river,9
+march-27-2020,waldwick,4
+march-27-2020,wallington,5
+march-27-2020,washington township,8
+march-27-2020,westwood,5
+march-27-2020,wood-ridge,10
+march-27-2020,woodcliff lake,11
+march-27-2020,wyckoff,14
+march-27-2020,bordentown,1
+march-27-2020,bordentown township,4
+march-27-2020,burlington township,4
+march-27-2020,cinnaminson township,4
+march-27-2020,chesterfield township,2
+march-27-2020,delanco township,3
+march-27-2020,delran township,3
+march-27-2020,eastampton township,1
+march-27-2020,evesham township,9
+march-27-2020,florence township,2
+march-27-2020,lumberton township,3
+march-27-2020,mansfield township,3
+march-27-2020,medford lakes,1
+march-27-2020,mount laurel,9
+march-27-2020,moorestown,4
+march-27-2020,pemberton,2
+march-27-2020,pemberton township,1
+march-27-2020,riverton,2
+march-27-2020,southampton township,1
+march-27-2020,springfield township,1
+march-27-2020,tabernacle township,1
+march-27-2020,willingboro township,3
+march-27-2020,barrington,2
+march-27-2020,bellmawr,1
+march-27-2020,camden,2
+march-27-2020,cherry hill,21
+march-27-2020,clementon,2
+march-27-2020,collingswood,2
+march-27-2020,gloucester township,7
+march-27-2020,haddon heights,1
+march-27-2020,haddon township,2
+march-27-2020,haddonfield,3
+march-27-2020,lindenwold,1
+march-27-2020,magnolia,1
+march-27-2020,oaklyn,1
+march-27-2020,pennsauken township,3
+march-27-2020,pine hill,2
+march-27-2020,somerdale,2
+march-27-2020,voorhees township,2
+march-27-2020,waterford township,3
+march-27-2020,winslow township,6
+march-27-2020,deptford township,3
+march-27-2020,east greenwich township,1
+march-27-2020,glassboro,6
+march-27-2020,harrison,3
+march-27-2020,logan township,1
+march-27-2020,monroe township,30
+march-27-2020,wenonah,1
+march-27-2020,west deptford township,2
+march-27-2020,woodbury,2
+march-27-2020,woolwich township,5
+march-27-2020,bethlehem township,2
+march-27-2020,bloomsbury,1
+march-27-2020,califon,2
+march-27-2020,clinton township,5
+march-27-2020,delaware township,3
+march-27-2020,flemington,5
+march-27-2020,glen gardner,1
+march-27-2020,hampton,2
+march-27-2020,high bridge,1
+march-27-2020,holland township,1
+march-27-2020,kingwood township,1
+march-27-2020,lambertville,3
+march-27-2020,raritan township,14
+march-27-2020,readington township,5
+march-27-2020,tewksbury township,2
+march-27-2020,west amwell township,1
+march-27-2020,carteret,10
+march-27-2020,dunellen,4
+march-27-2020,cranbury,5
+march-27-2020,east brunswick,37
+march-27-2020,edison,42
+march-27-2020,helmetta,3
+march-27-2020,highland park,12
+march-27-2020,jamesburg,4
+march-27-2020,metuchen,2
+march-27-2020,middlesex,6
+march-27-2020,new brunswick,15
+march-27-2020,north brunswick,16
+march-27-2020,old bridge township,45
+march-27-2020,perth amboy,25
+march-27-2020,piscataway,31
+march-27-2020,plainsboro township,8
+march-27-2020,sayreville,26
+march-27-2020,south amboy,10
+march-27-2020,south brunswick,18
+march-27-2020,south plainfield,6
+march-27-2020,south river,7
+march-27-2020,spotswood,4
+march-27-2020,woodbridge township,39
+march-27-2020,barnegat township,12
+march-27-2020,barnegat light,1
+march-27-2020,bay head,1
+march-27-2020,beachwood,3
+march-27-2020,berkeley township,28
+march-27-2020,brick township,33
+march-27-2020,island heights,1
+march-27-2020,jackson township,52
+march-27-2020,lacey township,12
+march-27-2020,lakewood township,198
+march-27-2020,little egg harbor township,4
+march-27-2020,long beach township,2
+march-27-2020,manchester township,20
+march-27-2020,ocean gate,1
+march-27-2020,ocean township,2
+march-27-2020,plumsted township,3
+march-27-2020,point pleasant beach,2
+march-27-2020,point pleasant,18
+march-27-2020,seaside park,1
+march-27-2020,ship bottom,2
+march-27-2020,south toms river,3
+march-27-2020,surf city,1
+march-27-2020,stafford township,7
+march-27-2020,toms river,60
+march-27-2020,bloomingdale,3
+march-27-2020,clifton,65
+march-27-2020,haledon,2
+march-27-2020,hawthorne,11
+march-27-2020,little falls,3
+march-27-2020,north haledon,2
+march-27-2020,passaic,36
+march-27-2020,paterson,67
+march-27-2020,pompton lakes,5
+march-27-2020,prospect park,3
+march-27-2020,ringwood,8
+march-27-2020,totowa,4
+march-27-2020,wanaque,9
+march-27-2020,wayne,41
+march-27-2020,west milford,8
+march-27-2020,woodland park,9
+march-27-2020,bedminster,7
+march-27-2020,bernards township,12
+march-27-2020,bernardsville,8
+march-27-2020,bound brook,5
+march-27-2020,branchburg,12
+march-27-2020,bridgewater township,20
+march-27-2020,franklin,41
+march-27-2020,green brook township,4
+march-27-2020,hillsborough township,18
+march-27-2020,manville,7
+march-27-2020,millstone,1
+march-27-2020,montgomery,11
+march-27-2020,north plainfield,12
+march-27-2020,peapack and gladstone,2
+march-27-2020,raritan,3
+march-27-2020,somerville,3
+march-27-2020,south bound brook,3
+march-27-2020,warren township,12
+march-27-2020,watchung,7
+march-27-2020,andover,1
+march-27-2020,andover township,1
+march-27-2020,branchville,1
+march-27-2020,byram township,1
+march-27-2020,fredon township,1
+march-27-2020,frankford township,5
+march-27-2020,hamburg,2
+march-27-2020,hardyston township,4
+march-27-2020,hopatcong,5
+march-27-2020,vernon township,1
+march-27-2020,ogdensburg,1
+march-27-2020,lafayette township,1
+march-27-2020,newton,4
+march-27-2020,sandyston township,1
+march-27-2020,sparta township,10
+march-27-2020,stanhope,1
+march-27-2020,wantage township,3
+march-28-2020,allendale,6
+march-28-2020,alpine,3
+march-28-2020,bergenfield,72
+march-28-2020,bogota,16
+march-28-2020,carlstadt,9
+march-28-2020,cliffside park,22
+march-28-2020,closter,4
+march-28-2020,cresskill,3
+march-28-2020,demarest,6
+march-28-2020,dumont,24
+march-28-2020,east rutherford,5
+march-28-2020,edgewater,19
+march-28-2020,elmwood park,20
+march-28-2020,emerson,3
+march-28-2020,englewood,70
+march-28-2020,englewood cliffs,5
+march-28-2020,fair lawn,31
+march-28-2020,fairview,8
+march-28-2020,fort lee,34
+march-28-2020,franklin lakes,21
+march-28-2020,garfield,37
+march-28-2020,glen rock,12
+march-28-2020,hackensack,67
+march-28-2020,hasbrouck heights,16
+march-28-2020,haworth,3
+march-28-2020,hillsdale,6
+march-28-2020,ho-ho-kus,8
+march-28-2020,leonia,8
+march-28-2020,little ferry,11
+march-28-2020,lodi,34
+march-28-2020,lyndhurst,27
+march-28-2020,mahwah,20
+march-28-2020,maywood,9
+march-28-2020,midland park,2
+march-28-2020,montvale,9
+march-28-2020,moonachie,6
+march-28-2020,new milford,36
+march-28-2020,north arlington,12
+march-28-2020,northvale,4
+march-28-2020,norwood,8
+march-28-2020,oakland,9
+march-28-2020,old tappan,13
+march-28-2020,oradell,11
+march-28-2020,palisades park,12
+march-28-2020,paramus,29
+march-28-2020,park ridge,6
+march-28-2020,ramsey,8
+march-28-2020,ridgefield,12
+march-28-2020,ridgefield park,17
+march-28-2020,ridgewood,32
+march-28-2020,river edge,12
+march-28-2020,river vale,5
+march-28-2020,rochelle park,5
+march-28-2020,rutherford,12
+march-28-2020,saddle brook,8
+march-28-2020,saddle river,4
+march-28-2020,south hackensack,6
+march-28-2020,teaneck,213
+march-28-2020,tenafly,11
+march-28-2020,upper saddle river,9
+march-28-2020,waldwick,4
+march-28-2020,wallington,5
+march-28-2020,washington township,1
+march-28-2020,westwood,5
+march-28-2020,wood-ridge,10
+march-28-2020,woodcliff lake,11
+march-28-2020,wyckoff,14
+march-28-2020,bordentown,1
+march-28-2020,bordentown township,4
+march-28-2020,burlington township,10
+march-28-2020,cinnaminson township,4
+march-28-2020,chesterfield township,2
+march-28-2020,delanco township,3
+march-28-2020,delran township,3
+march-28-2020,eastampton township,1
+march-28-2020,evesham township,12
+march-28-2020,florence township,2
+march-28-2020,hainesport township,1
+march-28-2020,lumberton township,3
+march-28-2020,mansfield township,3
+march-28-2020,maple shade township,1
+march-28-2020,medford lakes,1
+march-28-2020,mount holly,2
+march-28-2020,mount laurel,10
+march-28-2020,moorestown,4
+march-28-2020,pemberton,3
+march-28-2020,pemberton township,1
+march-28-2020,riverton,2
+march-28-2020,southampton township,1
+march-28-2020,springfield township,1
+march-28-2020,tabernacle township,1
+march-28-2020,willingboro township,5
+march-28-2020,barrington,4
+march-28-2020,bellmawr,2
+march-28-2020,berlin,1
+march-28-2020,camden,5
+march-28-2020,cherry hill,32
+march-28-2020,clementon,2
+march-28-2020,collingswood,3
+march-28-2020,gloucester township,16
+march-28-2020,haddon heights,1
+march-28-2020,haddon township,3
+march-28-2020,haddonfield,4
+march-28-2020,lindenwold,4
+march-28-2020,magnolia,1
+march-28-2020,merchantville,3
+march-28-2020,oaklyn,1
+march-28-2020,pennsauken township,8
+march-28-2020,pine hill,4
+march-28-2020,runnemede,1
+march-28-2020,somerdale,2
+march-28-2020,voorhees township,5
+march-28-2020,waterford township,3
+march-28-2020,winslow township,13
+march-28-2020,clayton,1
+march-28-2020,deptford township,7
+march-28-2020,east greenwich township,2
+march-28-2020,franklin,3
+march-28-2020,greenwich township,7
+march-28-2020,glassboro,7
+march-28-2020,harrison,3
+march-28-2020,logan township,2
+march-28-2020,monroe township,40
+march-28-2020,wenonah,1
+march-28-2020,west deptford township,2
+march-28-2020,woodbury,3
+march-28-2020,woodbury heights,1
+march-28-2020,woolwich township,5
+march-28-2020,bethlehem township,2
+march-28-2020,bloomsbury,1
+march-28-2020,califon,2
+march-28-2020,clinton township,6
+march-28-2020,delaware township,3
+march-28-2020,east amwell township,2
+march-28-2020,flemington,5
+march-28-2020,glen gardner,1
+march-28-2020,hampton,2
+march-28-2020,high bridge,1
+march-28-2020,holland township,2
+march-28-2020,kingwood township,1
+march-28-2020,lambertville,3
+march-28-2020,raritan township,15
+march-28-2020,readington township,6
+march-28-2020,tewksbury township,3
+march-28-2020,union township,2
+march-28-2020,west amwell township,1
+march-28-2020,carteret,10
+march-28-2020,dunellen,6
+march-28-2020,cranbury,5
+march-28-2020,east brunswick,40
+march-28-2020,edison,48
+march-28-2020,helmetta,3
+march-28-2020,highland park,13
+march-28-2020,jamesburg,4
+march-28-2020,metuchen,2
+march-28-2020,middlesex,8
+march-28-2020,new brunswick,20
+march-28-2020,north brunswick,21
+march-28-2020,old bridge township,52
+march-28-2020,perth amboy,2
+march-28-2020,piscataway,35
+march-28-2020,plainsboro township,10
+march-28-2020,sayreville,28
+march-28-2020,south amboy,11
+march-28-2020,south brunswick,21
+march-28-2020,south plainfield,8
+march-28-2020,south river,9
+march-28-2020,spotswood,4
+march-28-2020,woodbridge township,54
+march-28-2020,aberdeen township,10
+march-28-2020,asbury park,6
+march-28-2020,atlantic highlands,2
+march-28-2020,belmar,2
+march-28-2020,bradley beach,2
+march-28-2020,brielle,4
+march-28-2020,colts neck township,8
+march-28-2020,eatontown,13
+march-28-2020,englishtown,5
+march-28-2020,fair haven,10
+march-28-2020,farmingdale,1
+march-28-2020,freehold township,28
+march-28-2020,hazlet,17
+march-28-2020,holmdel township,8
+march-28-2020,howell township,14
+march-28-2020,keansburg,2
+march-28-2020,keyport,1
+march-28-2020,lake como,1
+march-28-2020,little silver,12
+march-28-2020,long branch,7
+march-28-2020,manalapan township,27
+march-28-2020,manasquan,3
+march-28-2020,marlboro township,29
+march-28-2020,matawan,3
+march-28-2020,middletown township,22
+march-28-2020,millstone,1
+march-28-2020,monmouth beach,2
+march-28-2020,neptune township,1
+march-28-2020,ocean township,3
+march-28-2020,oceanport,4
+march-28-2020,red bank,5
+march-28-2020,rumson,5
+march-28-2020,sea bright,1
+march-28-2020,sea girt,3
+march-28-2020,shrewsbury,1
+march-28-2020,spring lake heights,1
+march-28-2020,tinton falls,6
+march-28-2020,union beach,1
+march-28-2020,wall township,4
+march-28-2020,upper freehold township,5
+march-28-2020,west long branch,4
+march-28-2020,barnegat township,15
+march-28-2020,barnegat light,2
+march-28-2020,bay head,1
+march-28-2020,beachwood,3
+march-28-2020,berkeley township,33
+march-28-2020,brick township,46
+march-28-2020,island heights,1
+march-28-2020,jackson township,57
+march-28-2020,lacey township,14
+march-28-2020,lakewood township,236
+march-28-2020,little egg harbor township,5
+march-28-2020,long beach township,2
+march-28-2020,manchester township,26
+march-28-2020,ocean gate,1
+march-28-2020,plumsted township,3
+march-28-2020,point pleasant beach,2
+march-28-2020,point pleasant,20
+march-28-2020,seaside heights,1
+march-28-2020,seaside park,1
+march-28-2020,ship bottom,2
+march-28-2020,south toms river,5
+march-28-2020,surf city,1
+march-28-2020,stafford township,7
+march-28-2020,toms river,69
+march-28-2020,bloomingdale,3
+march-28-2020,clifton,65
+march-28-2020,haledon,2
+march-28-2020,hawthorne,11
+march-28-2020,little falls,3
+march-28-2020,north haledon,2
+march-28-2020,passaic,36
+march-28-2020,paterson,67
+march-28-2020,pompton lakes,5
+march-28-2020,prospect park,3
+march-28-2020,ringwood,8
+march-28-2020,totowa,4
+march-28-2020,wanaque,9
+march-28-2020,wayne,41
+march-28-2020,west milford,8
+march-28-2020,woodland park,9
+march-28-2020,bedminster,7
+march-28-2020,bernards township,16
+march-28-2020,bernardsville,8
+march-28-2020,bound brook,4
+march-28-2020,branchburg,16
+march-28-2020,bridgewater township,24
+march-28-2020,green brook township,4
+march-28-2020,hillsborough township,23
+march-28-2020,manville,8
+march-28-2020,montgomery,11
+march-28-2020,north plainfield,14
+march-28-2020,peapack and gladstone,2
+march-28-2020,raritan,3
+march-28-2020,somerville,6
+march-28-2020,south bound brook,5
+march-28-2020,warren township,11
+march-28-2020,watchung,8
+march-28-2020,andover,1
+march-28-2020,andover township,1
+march-28-2020,branchville,1
+march-28-2020,byram township,1
+march-28-2020,frankford township,5
+march-28-2020,fredon township,2
+march-28-2020,green township,1
+march-28-2020,hamburg,2
+march-28-2020,hardyston township,6
+march-28-2020,hopatcong,6
+march-28-2020,lafayette township,1
+march-28-2020,montague township,1
+march-28-2020,newton,7
+march-28-2020,ogdensburg,1
+march-28-2020,sandyston township,1
+march-28-2020,sparta township,13
+march-28-2020,stanhope,2
+march-28-2020,vernon township,5
+march-28-2020,wantage township,7
+march-28-2020,allamuchy township,3
+march-28-2020,frelinghuysen township,1
+march-28-2020,hackettstown,5
+march-28-2020,harmony township,3
+march-28-2020,hope township,2
+march-28-2020,independence township,3
+march-28-2020,knowlton township,1
+march-28-2020,liberty township,1
+march-28-2020,lopatcong township,6
+march-28-2020,phillipsburg,7
+march-28-2020,pohatcong township,1
+march-28-2020,washington,5
+march-28-2020,white township,1
+march-29-2020,clayton,2
+march-29-2020,deptford township,10
+march-29-2020,east greenwich township,3
+march-29-2020,franklin,4
+march-29-2020,greenwich township,7
+march-29-2020,glassboro,10
+march-29-2020,harrison,3
+march-29-2020,logan township,2
+march-29-2020,mantua township,1
+march-29-2020,monroe township,57
+march-29-2020,pitman,1
+march-29-2020,washington township,1
+march-29-2020,wenonah,1
+march-29-2020,west deptford township,3
+march-29-2020,woodbury,3
+march-29-2020,woodbury heights,2
+march-29-2020,woolwich township,5
+march-29-2020,bethlehem township,2
+march-29-2020,bloomsbury,1
+march-29-2020,califon,2
+march-29-2020,clinton township,7
+march-29-2020,delaware township,4
+march-29-2020,east amwell township,3
+march-29-2020,flemington,5
+march-29-2020,glen gardner,1
+march-29-2020,hampton,2
+march-29-2020,high bridge,1
+march-29-2020,holland township,2
+march-29-2020,kingwood township,1
+march-29-2020,lambertville,4
+march-29-2020,raritan township,16
+march-29-2020,readington township,10
+march-29-2020,tewksbury township,3
+march-29-2020,union township,2
+march-29-2020,west amwell township,1
+march-29-2020,carteret,15
+march-29-2020,dunellen,7
+march-29-2020,cranbury,5
+march-29-2020,east brunswick,51
+march-29-2020,edison,50
+march-29-2020,helmetta,3
+march-29-2020,highland park,14
+march-29-2020,jamesburg,7
+march-29-2020,metuchen,4
+march-29-2020,middlesex,12
+march-29-2020,new brunswick,27
+march-29-2020,north brunswick,19
+march-29-2020,old bridge township,63
+march-29-2020,perth amboy,29
+march-29-2020,piscataway,43
+march-29-2020,plainsboro township,11
+march-29-2020,sayreville,36
+march-29-2020,south amboy,14
+march-29-2020,south brunswick,22
+march-29-2020,south plainfield,14
+march-29-2020,south river,11
+march-29-2020,spotswood,4
+march-29-2020,woodbridge township,66
+march-29-2020,aberdeen township,10
+march-29-2020,asbury park,6
+march-29-2020,atlantic highlands,2
+march-29-2020,belmar,2
+march-29-2020,bradley beach,2
+march-29-2020,brielle,4
+march-29-2020,colts neck township,8
+march-29-2020,eatontown,13
+march-29-2020,englishtown,5
+march-29-2020,fair haven,10
+march-29-2020,farmingdale,1
+march-29-2020,freehold township,28
+march-29-2020,hazlet,17
+march-29-2020,holmdel township,8
+march-29-2020,howell township,14
+march-29-2020,keansburg,2
+march-29-2020,keyport,1
+march-29-2020,lake como,1
+march-29-2020,little silver,12
+march-29-2020,long branch,7
+march-29-2020,manalapan township,27
+march-29-2020,manasquan,3
+march-29-2020,marlboro township,29
+march-29-2020,matawan,3
+march-29-2020,middletown township,22
+march-29-2020,millstone,2
+march-29-2020,monmouth beach,2
+march-29-2020,neptune township,1
+march-29-2020,ocean township,4
+march-29-2020,oceanport,4
+march-29-2020,red bank,5
+march-29-2020,rumson,5
+march-29-2020,sea bright,1
+march-29-2020,sea girt,3
+march-29-2020,shrewsbury,1
+march-29-2020,spring lake heights,1
+march-29-2020,tinton falls,6
+march-29-2020,union beach,1
+march-29-2020,wall township,4
+march-29-2020,upper freehold township,5
+march-29-2020,west long branch,4
+march-29-2020,boonton township,7
+march-29-2020,butler,3
+march-29-2020,chatham township,7
+march-29-2020,chester township,11
+march-29-2020,denville township,11
+march-29-2020,dover,22
+march-29-2020,east hanover township,17
+march-29-2020,florham park,15
+march-29-2020,hanover township,6
+march-29-2020,harding township,5
+march-29-2020,kinnelon,9
+march-29-2020,lincoln park,9
+march-29-2020,long hill township,4
+march-29-2020,madison,16
+march-29-2020,mendham township,8
+march-29-2020,mine hill township,3
+march-29-2020,montville,18
+march-29-2020,morris plains,6
+march-29-2020,morris township,23
+march-29-2020,morristown,29
+march-29-2020,mount arlington,1
+march-29-2020,mount olive township,14
+march-29-2020,netcong,1
+march-29-2020,parsippany-troy hills,22
+march-29-2020,pequannock township,15
+march-29-2020,randolph,21
+march-29-2020,riverdale,4
+march-29-2020,rockaway,5
+march-29-2020,rockaway township,7
+march-29-2020,wharton,5
+march-29-2020,barnegat township,20
+march-29-2020,barnegat light,2
+march-29-2020,bay head,1
+march-29-2020,beach haven,1
+march-29-2020,beachwood,4
+march-29-2020,berkeley township,72
+march-29-2020,brick township,46
+march-29-2020,island heights,1
+march-29-2020,jackson township,64
+march-29-2020,lavallette,1
+march-29-2020,lacey township,17
+march-29-2020,lakewood township,272
+march-29-2020,little egg harbor township,6
+march-29-2020,long beach township,2
+march-29-2020,manchester township,32
+march-29-2020,ocean gate,1
+march-29-2020,plumsted township,4
+march-29-2020,point pleasant beach,2
+march-29-2020,point pleasant,22
+march-29-2020,seaside heights,2
+march-29-2020,seaside park,1
+march-29-2020,ship bottom,2
+march-29-2020,south toms river,6
+march-29-2020,surf city,1
+march-29-2020,stafford township,8
+march-29-2020,toms river,91
+march-29-2020,bloomingdale,3
+march-29-2020,clifton,65
+march-29-2020,haledon,2
+march-29-2020,hawthorne,11
+march-29-2020,little falls,3
+march-29-2020,north haledon,2
+march-29-2020,passaic,36
+march-29-2020,paterson,67
+march-29-2020,pompton lakes,5
+march-29-2020,prospect park,3
+march-29-2020,ringwood,8
+march-29-2020,totowa,4
+march-29-2020,wanaque,9
+march-29-2020,wayne,41
+march-29-2020,west milford,8
+march-29-2020,woodland park,9
+march-29-2020,bedminster,7
+march-29-2020,bernards township,18
+march-29-2020,bernardsville,11
+march-29-2020,bound brook,17
+march-29-2020,branchburg,15
+march-29-2020,bridgewater township,44
+march-29-2020,green brook township,4
+march-29-2020,hillsborough township,34
+march-29-2020,manville,10
+march-29-2020,montgomery,14
+march-29-2020,north plainfield,16
+march-29-2020,peapack and gladstone,2
+march-29-2020,rocky hill,1
+march-29-2020,raritan,3
+march-29-2020,somerville,11
+march-29-2020,south bound brook,4
+march-29-2020,warren township,17
+march-29-2020,watchung,12
+march-29-2020,andover,1
+march-29-2020,andover township,1
+march-29-2020,branchville,2
+march-29-2020,byram township,4
+march-29-2020,frankford township,5
+march-29-2020,fredon township,2
+march-29-2020,green township,1
+march-29-2020,hamburg,2
+march-29-2020,hardyston township,7
+march-29-2020,hopatcong,8
+march-29-2020,lafayette township,1
+march-29-2020,montague township,1
+march-29-2020,newton,7
+march-29-2020,ogdensburg,2
+march-29-2020,sandyston township,1
+march-29-2020,sparta township,16
+march-29-2020,stanhope,3
+march-29-2020,sussex,2
+march-29-2020,vernon township,8
+march-29-2020,wantage township,7
+march-29-2020,allamuchy township,3
+march-29-2020,frelinghuysen township,1
+march-29-2020,hackettstown,5
+march-29-2020,harmony township,3
+march-29-2020,hope township,2
+march-29-2020,independence township,4
+march-29-2020,knowlton township,1
+march-29-2020,liberty township,1
+march-29-2020,lopatcong township,6
+march-29-2020,mansfield township,3
+march-29-2020,phillipsburg,7
+march-29-2020,pohatcong township,1
+march-29-2020,washington,5
+march-29-2020,white township,1
+march-30-2020,aberdeen township,10
+march-30-2020,asbury park,6
+march-30-2020,atlantic highlands,2
+march-30-2020,belmar,2
+march-30-2020,bradley beach,2
+march-30-2020,brielle,4
+march-30-2020,colts neck township,8
+march-30-2020,eatontown,13
+march-30-2020,englishtown,5
+march-30-2020,fair haven,10
+march-30-2020,farmingdale,1
+march-30-2020,freehold township,28
+march-30-2020,hazlet,17
+march-30-2020,holmdel township,8
+march-30-2020,howell township,14
+march-30-2020,keansburg,2
+march-30-2020,keyport,1
+march-30-2020,lake como,1
+march-30-2020,little silver,12
+march-30-2020,long branch,7
+march-30-2020,manalapan township,27
+march-30-2020,manasquan,3
+march-30-2020,marlboro township,29
+march-30-2020,matawan,3
+march-30-2020,middletown township,22
+march-30-2020,millstone,2
+march-30-2020,monmouth beach,2
+march-30-2020,neptune township,1
+march-30-2020,ocean township,4
+march-30-2020,oceanport,4
+march-30-2020,red bank,5
+march-30-2020,rumson,5
+march-30-2020,sea bright,1
+march-30-2020,sea girt,3
+march-30-2020,shrewsbury,1
+march-30-2020,spring lake heights,1
+march-30-2020,tinton falls,6
+march-30-2020,union beach,1
+march-30-2020,wall township,4
+march-30-2020,upper freehold township,5
+march-30-2020,west long branch,4
+march-30-2020,boonton township,7
+march-30-2020,butler,3
+march-30-2020,chatham township,7
+march-30-2020,chester township,11
+march-30-2020,denville township,11
+march-30-2020,dover,22
+march-30-2020,east hanover township,17
+march-30-2020,florham park,15
+march-30-2020,hanover township,6
+march-30-2020,harding township,5
+march-30-2020,kinnelon,9
+march-30-2020,lincoln park,9
+march-30-2020,long hill township,4
+march-30-2020,madison,16
+march-30-2020,mendham township,8
+march-30-2020,mine hill township,3
+march-30-2020,montville,18
+march-30-2020,morris plains,6
+march-30-2020,morris township,23
+march-30-2020,morristown,29
+march-30-2020,mount arlington,1
+march-30-2020,mount olive township,14
+march-30-2020,netcong,1
+march-30-2020,parsippany-troy hills,22
+march-30-2020,pequannock township,15
+march-30-2020,randolph,21
+march-30-2020,riverdale,4
+march-30-2020,rockaway,5
+march-30-2020,rockaway township,7
+march-30-2020,wharton,5
+march-30-2020,barnegat township,20
+march-30-2020,barnegat light,2
+march-30-2020,bay head,1
+march-30-2020,beach haven,1
+march-30-2020,beachwood,7
+march-30-2020,berkeley township,45
+march-30-2020,brick township,81
+march-30-2020,island heights,1
+march-30-2020,jackson township,77
+march-30-2020,lavallette,1
+march-30-2020,lacey township,18
+march-30-2020,lakehurst,1
+march-30-2020,lakewood township,371
+march-30-2020,little egg harbor township,7
+march-30-2020,manchester township,33
+march-30-2020,plumsted township,4
+march-30-2020,point pleasant beach,3
+march-30-2020,point pleasant,22
+march-30-2020,seaside heights,4
+march-30-2020,seaside park,1
+march-30-2020,ship bottom,2
+march-30-2020,south toms river,8
+march-30-2020,surf city,1
+march-30-2020,stafford township,11
+march-30-2020,toms river,106
+march-30-2020,bloomingdale,9
+march-30-2020,clifton,107
+march-30-2020,haledon,10
+march-30-2020,hawthorne,27
+march-30-2020,little falls,7
+march-30-2020,north haledon,8
+march-30-2020,passaic,85
+march-30-2020,paterson,140
+march-30-2020,pompton lakes,15
+march-30-2020,prospect park,9
+march-30-2020,ringwood,13
+march-30-2020,totowa,6
+march-30-2020,wanaque,26
+march-30-2020,wayne,81
+march-30-2020,west milford,18
+march-30-2020,woodland park,15
+march-30-2020,bedminster,7
+march-30-2020,bernards township,22
+march-30-2020,bernardsville,14
+march-30-2020,bound brook,9
+march-30-2020,branchburg,19
+march-30-2020,bridgewater township,48
+march-30-2020,franklin,4
+march-30-2020,green brook township,7
+march-30-2020,hillsborough township,35
+march-30-2020,manville,14
+march-30-2020,montgomery,14
+march-30-2020,north plainfield,16
+march-30-2020,peapack and gladstone,2
+march-30-2020,raritan,4
+march-30-2020,rocky hill,1
+march-30-2020,somerville,13
+march-30-2020,south bound brook,4
+march-30-2020,warren township,20
+march-30-2020,watchung,14
+march-30-2020,andover,1
+march-30-2020,andover township,1
+march-30-2020,branchville,2
+march-30-2020,byram township,4
+march-30-2020,frankford township,5
+march-30-2020,fredon township,2
+march-30-2020,green township,1
+march-30-2020,hamburg,2
+march-30-2020,hampton,2
+march-30-2020,hardyston township,7
+march-30-2020,hopatcong,8
+march-30-2020,lafayette township,1
+march-30-2020,montague township,1
+march-30-2020,newton,7
+march-30-2020,ogdensburg,2
+march-30-2020,sandyston township,1
+march-30-2020,sparta township,16
+march-30-2020,stanhope,3
+march-30-2020,sussex,2
+march-30-2020,vernon township,8
+march-30-2020,wantage township,7
+march-30-2020,allamuchy township,3
+march-30-2020,belvidere,1
+march-30-2020,frelinghuysen township,1
+march-30-2020,greenwich township,7
+march-30-2020,hackettstown,5
+march-30-2020,harmony township,3
+march-30-2020,hope township,2
+march-30-2020,independence township,4
+march-30-2020,knowlton township,1
+march-30-2020,liberty township,2
+march-30-2020,lopatcong township,9
+march-30-2020,mansfield township,6
+march-30-2020,phillipsburg,9
+march-30-2020,pohatcong township,1
+march-30-2020,washington,6
+march-30-2020,washington township,1
+march-30-2020,white township,1
+march-31-2020,allendale,8
+march-31-2020,alpine,6
+march-31-2020,bergenfield,134
+march-31-2020,bogota,36
+march-31-2020,carlstadt,18
+march-31-2020,cliffside park,56
+march-31-2020,closter,16
+march-31-2020,cresskill,16
+march-31-2020,demarest,12
+march-31-2020,dumont,55
+march-31-2020,east rutherford,17
+march-31-2020,edgewater,29
+march-31-2020,elmwood park,55
+march-31-2020,emerson,11
+march-31-2020,englewood,157
+march-31-2020,englewood cliffs,9
+march-31-2020,fair lawn,110
+march-31-2020,fairview,33
+march-31-2020,fort lee,82
+march-31-2020,franklin lakes,29
+march-31-2020,garfield,71
+march-31-2020,glen rock,25
+march-31-2020,hackensack,136
+march-31-2020,harrington park,4
+march-31-2020,hasbrouck heights,38
+march-31-2020,haworth,6
+march-31-2020,hillsdale,24
+march-31-2020,ho-ho-kus,11
+march-31-2020,leonia,19
+march-31-2020,little ferry,31
+march-31-2020,lodi,79
+march-31-2020,lyndhurst,49
+march-31-2020,mahwah,45
+march-31-2020,maywood,21
+march-31-2020,midland park,7
+march-31-2020,montvale,24
+march-31-2020,moonachie,13
+march-31-2020,new milford,72
+march-31-2020,north arlington,28
+march-31-2020,northvale,7
+march-31-2020,norwood,16
+march-31-2020,oakland,25
+march-31-2020,old tappan,18
+march-31-2020,oradell,28
+march-31-2020,palisades park,32
+march-31-2020,paramus,73
+march-31-2020,park ridge,13
+march-31-2020,ramsey,19
+march-31-2020,ridgefield,21
+march-31-2020,ridgefield park,37
+march-31-2020,ridgewood,64
+march-31-2020,river edge,29
+march-31-2020,river vale,15
+march-31-2020,rochelle park,14
+march-31-2020,rockleigh,1
+march-31-2020,rutherford,27
+march-31-2020,saddle brook,42
+march-31-2020,saddle river,7
+march-31-2020,south hackensack,15
+march-31-2020,teaneck,302
+march-31-2020,tenafly,32
+march-31-2020,teterboro,1
+march-31-2020,upper saddle river,25
+march-31-2020,waldwick,23
+march-31-2020,wallington,14
+march-31-2020,washington township,1
+march-31-2020,westwood,23
+march-31-2020,wood-ridge,27
+march-31-2020,woodcliff lake,19
+march-31-2020,wyckoff,27
+march-31-2020,beverly,2
+march-31-2020,bordentown township,8
+march-31-2020,burlington,1
+march-31-2020,burlington township,12
+march-31-2020,chesterfield township,3
+march-31-2020,cinnaminson township,4
+march-31-2020,delanco township,3
+march-31-2020,delran township,4
+march-31-2020,eastampton township,1
+march-31-2020,edgewater park,2
+march-31-2020,evesham township,18
+march-31-2020,florence township,3
+march-31-2020,hainesport township,2
+march-31-2020,lumberton township,6
+march-31-2020,mansfield township,6
+march-31-2020,maple shade township,6
+march-31-2020,medford,2
+march-31-2020,medford lakes,1
+march-31-2020,moorestown,10
+march-31-2020,mount holly,4
+march-31-2020,mount laurel,21
+march-31-2020,new hanover township,1
+march-31-2020,pemberton,1
+march-31-2020,pemberton township,15
+march-31-2020,riverton,7
+march-31-2020,shamong township,2
+march-31-2020,southampton township,1
+march-31-2020,tabernacle township,2
+march-31-2020,westampton township,1
+march-31-2020,willingboro township,15
+march-31-2020,audubon,1
+march-31-2020,barrington,4
+march-31-2020,bellmawr,3
+march-31-2020,berlin township,1
+march-31-2020,brooklawn,1
+march-31-2020,camden,12
+march-31-2020,cherry hill,55
+march-31-2020,chesilhurst,1
+march-31-2020,collingswood,3
+march-31-2020,gloucester township,28
+march-31-2020,haddon heights,2
+march-31-2020,haddon township,7
+march-31-2020,haddonfield,4
+march-31-2020,lawnside,1
+march-31-2020,lindenwold,7
+march-31-2020,magnolia,2
+march-31-2020,merchantville,2
+march-31-2020,oaklyn,2
+march-31-2020,pennsauken township,16
+march-31-2020,pine hill,4
+march-31-2020,runnemede,1
+march-31-2020,somerdale,3
+march-31-2020,voorhees township,13
+march-31-2020,waterford township,3
+march-31-2020,winslow township,24
+march-31-2020,woodlynne,1
+march-31-2020,avalon,1
+march-31-2020,cape may,3
+march-31-2020,lower township,5
+march-31-2020,middle township,3
+march-31-2020,north wildwood,1
+march-31-2020,ocean township,4
+march-31-2020,sea isle city,1
+march-31-2020,upper township,1
+march-31-2020,wildwood,2
+march-31-2020,wildwood crest,1
+march-31-2020,bridgeton,1
+march-31-2020,deerfield township,1
+march-31-2020,lawrence township,1
+march-31-2020,millville,1
+march-31-2020,vineland,7
+march-31-2020,belleville,135
+march-31-2020,bloomfield,115
+march-31-2020,caldwell,15
+march-31-2020,cedar grove,25
+march-31-2020,east orange,205
+march-31-2020,essex fells,7
+march-31-2020,fairfield township,17
+march-31-2020,glen ridge,12
+march-31-2020,irvington,165
+march-31-2020,livingston,107
+march-31-2020,maplewood,54
+march-31-2020,millburn,44
+march-31-2020,montclair,89
+march-31-2020,newark,568
+march-31-2020,nutley,101
+march-31-2020,city of orange,101
+march-31-2020,roseland,17
+march-31-2020,south orange village,23
+march-31-2020,verona,20
+march-31-2020,west caldwell,24
+march-31-2020,west orange,136
+march-31-2020,clayton,2
+march-31-2020,deptford township,11
+march-31-2020,east greenwich township,3
+march-31-2020,franklin,6
+march-31-2020,greenwich township,7
+march-31-2020,glassboro,10
+march-31-2020,harrison,28
+march-31-2020,logan township,4
+march-31-2020,mantua township,5
+march-31-2020,monroe township,75
+march-31-2020,paulsboro,1
+march-31-2020,pitman,1
+march-31-2020,washington,7
+march-31-2020,wenonah,1
+march-31-2020,west deptford township,5
+march-31-2020,westville,1
+march-31-2020,woodbury heights,3
+march-31-2020,woolwich township,6
+march-31-2020,bayonne,103
+march-31-2020,east newark,5
+march-31-2020,guttenberg,6
+march-31-2020,hoboken,108
+march-31-2020,jersey city,820
+march-31-2020,kearny,76
+march-31-2020,secaucus,60
+march-31-2020,union township,3
+march-31-2020,west new york,77
+march-31-2020,alexandria township,1
+march-31-2020,bethlehem township,2
+march-31-2020,bloomsbury,1
+march-31-2020,califon,2
+march-31-2020,clinton township,12
+march-31-2020,delaware township,4
+march-31-2020,east amwell township,3
+march-31-2020,flemington,5
+march-31-2020,frenchtown,1
+march-31-2020,glen gardner,1
+march-31-2020,hampton,2
+march-31-2020,high bridge,3
+march-31-2020,holland township,3
+march-31-2020,kingwood township,2
+march-31-2020,lambertville,5
+march-31-2020,lebanon,1
+march-31-2020,lebanon township,4
+march-31-2020,raritan township,19
+march-31-2020,readington township,11
+march-31-2020,tewksbury township,4
+march-31-2020,west amwell township,1
+march-31-2020,carteret,35
+march-31-2020,cranbury,4
+march-31-2020,dunellen,10
+march-31-2020,east brunswick,65
+march-31-2020,edison,56
+march-31-2020,helmetta,4
+march-31-2020,highland park,17
+march-31-2020,jamesburg,11
+march-31-2020,metuchen,7
+march-31-2020,middlesex,13
+march-31-2020,milltown,1
+march-31-2020,new brunswick,36
+march-31-2020,north brunswick,43
+march-31-2020,old bridge township,96
+march-31-2020,perth amboy,75
+march-31-2020,piscataway,48
+march-31-2020,plainsboro township,19
+march-31-2020,sayreville,54
+march-31-2020,south amboy,15
+march-31-2020,south brunswick,33
+march-31-2020,south plainfield,38
+march-31-2020,south river,13
+march-31-2020,spotswood,4
+march-31-2020,woodbridge township,115
+march-31-2020,aberdeen township,33
+march-31-2020,asbury park,13
+march-31-2020,atlantic highlands,6
+march-31-2020,avon-by-the-sea,2
+march-31-2020,belmar,2
+march-31-2020,bradley beach,4
+march-31-2020,brielle,6
+march-31-2020,colts neck township,23
+march-31-2020,deal,5
+march-31-2020,eatontown,33
+march-31-2020,englishtown,8
+march-31-2020,fair haven,12
+march-31-2020,farmingdale,5
+march-31-2020,freehold township,90
+march-31-2020,hazlet,42
+march-31-2020,highlands,3
+march-31-2020,holmdel township,36
+march-31-2020,howell township,72
+march-31-2020,keansburg,23
+march-31-2020,keyport,7
+march-31-2020,lake como,4
+march-31-2020,little silver,14
+march-31-2020,long branch,39
+march-31-2020,manalapan township,71
+march-31-2020,manasquan,14
+march-31-2020,marlboro township,78
+march-31-2020,matawan,29
+march-31-2020,middletown township,103
+march-31-2020,millstone,2
+march-31-2020,monmouth beach,4
+march-31-2020,neptune township,35
+march-31-2020,oceanport,12
+march-31-2020,red bank,20
+march-31-2020,rumson,15
+march-31-2020,sea bright,1
+march-31-2020,sea girt,6
+march-31-2020,shrewsbury,11
+march-31-2020,shrewsbury township,4
+march-31-2020,spring lake,3
+march-31-2020,spring lake heights,6
+march-31-2020,tinton falls,20
+march-31-2020,upper freehold township,9
+march-31-2020,wall township,36
+march-31-2020,west long branch,16
+march-31-2020,boonton,9
+march-31-2020,boonton township,9
+march-31-2020,butler,8
+march-31-2020,chatham township,13
+march-31-2020,chester township,1
+march-31-2020,denville township,17
+march-31-2020,dover,54
+march-31-2020,east hanover township,31
+march-31-2020,florham park,32
+march-31-2020,hanover township,16
+march-31-2020,harding township,9
+march-31-2020,kinnelon,11
+march-31-2020,lincoln park,23
+march-31-2020,madison,25
+march-31-2020,mendham township,11
+march-31-2020,montville,34
+march-31-2020,morris plains,11
+march-31-2020,morris township,33
+march-31-2020,morristown,60
+march-31-2020,mount arlington,4
+march-31-2020,mount olive township,34
+march-31-2020,mountain lakes,3
+march-31-2020,netcong,5
+march-31-2020,parsippany-troy hills,49
+march-31-2020,pequannock township,21
+march-31-2020,randolph,46
+march-31-2020,riverdale,7
+march-31-2020,rockaway,6
+march-31-2020,rockaway township,21
+march-31-2020,roxbury township,23
+march-31-2020,victory gardens,3
+march-31-2020,barnegat township,23
+march-31-2020,barnegat light,2
+march-31-2020,bay head,2
+march-31-2020,beach haven,3
+march-31-2020,beachwood,7
+march-31-2020,berkeley township,58
+march-31-2020,brick township,94
+march-31-2020,island heights,1
+march-31-2020,jackson township,90
+march-31-2020,lacey township,22
+march-31-2020,lakehurst,1
+march-31-2020,lakewood township,399
+march-31-2020,lavallette,2
+march-31-2020,little egg harbor township,7
+march-31-2020,long beach township,3
+march-31-2020,manchester township,42
+march-31-2020,plumsted township,4
+march-31-2020,point pleasant beach,3
+march-31-2020,point pleasant,28
+march-31-2020,seaside heights,5
+march-31-2020,seaside park,2
+march-31-2020,ship bottom,2
+march-31-2020,south toms river,10
+march-31-2020,surf city,1
+march-31-2020,stafford township,12
+march-31-2020,toms river,127
+march-31-2020,bloomingdale,9
+march-31-2020,clifton,107
+march-31-2020,haledon,10
+march-31-2020,hawthorne,27
+march-31-2020,little falls,7
+march-31-2020,north haledon,8
+march-31-2020,passaic,85
+march-31-2020,paterson,140
+march-31-2020,pompton lakes,15
+march-31-2020,prospect park,9
+march-31-2020,ringwood,13
+march-31-2020,totowa,6
+march-31-2020,wanaque,26
+march-31-2020,wayne,81
+march-31-2020,west milford,18
+march-31-2020,woodland park,15
+march-31-2020,alloway township,1
+march-31-2020,elmer,1
+march-31-2020,quinton township,1
+march-31-2020,oldmans township,1
+march-31-2020,penns grove,2
+march-31-2020,pennsville township,3
+march-31-2020,pilesgrove township,1
+march-31-2020,salem,1
+march-31-2020,woodstown,1
+march-31-2020,bedminster,7
+march-31-2020,bernards township,22
+march-31-2020,bernardsville,14
+march-31-2020,bound brook,9
+march-31-2020,branchburg,19
+march-31-2020,bridgewater township,48
+march-31-2020,green brook township,7
+march-31-2020,hillsborough township,35
+march-31-2020,manville,13
+march-31-2020,montgomery,14
+march-31-2020,north plainfield,16
+march-31-2020,peapack and gladstone,2
+march-31-2020,raritan,4
+march-31-2020,rocky hill,1
+march-31-2020,somerville,13
+march-31-2020,south bound brook,4
+march-31-2020,warren township,20
+march-31-2020,watchung,14
+march-31-2020,andover,1
+march-31-2020,andover township,4
+march-31-2020,branchville,2
+march-31-2020,byram township,5
+march-31-2020,frankford township,5
+march-31-2020,fredon township,2
+march-31-2020,green township,1
+march-31-2020,hamburg,2
+march-31-2020,hardyston township,8
+march-31-2020,hopatcong,11
+march-31-2020,lafayette township,1
+march-31-2020,montague township,1
+march-31-2020,newton,13
+march-31-2020,ogdensburg,3
+march-31-2020,sandyston township,1
+march-31-2020,sparta township,23
+march-31-2020,stanhope,4
+march-31-2020,sussex,2
+march-31-2020,vernon township,14
+march-31-2020,wantage township,11
+march-31-2020,allamuchy township,4
+march-31-2020,belvidere,1
+march-31-2020,frelinghuysen township,1
+march-31-2020,hackettstown,6
+march-31-2020,hardwick township,4
+march-31-2020,harmony township,3
+march-31-2020,hope township,4
+march-31-2020,independence township,4
+march-31-2020,knowlton township,2
+march-31-2020,liberty township,3
+march-31-2020,lopatcong township,9
+march-31-2020,phillipsburg,10
+march-31-2020,pohatcong township,1
+march-31-2020,white township,1
+april-1-2020,beverly,2
+april-1-2020,bordentown township,9
+april-1-2020,burlington,2
+april-1-2020,burlington township,17
+april-1-2020,chesterfield township,1
+april-1-2020,cinnaminson township,4
+april-1-2020,delanco township,3
+april-1-2020,delran township,8
+april-1-2020,eastampton township,2
+april-1-2020,edgewater park,4
+april-1-2020,evesham township,20
+april-1-2020,florence township,3
+april-1-2020,hainesport township,3
+april-1-2020,lumberton township,6
+april-1-2020,mansfield township,6
+april-1-2020,maple shade township,6
+april-1-2020,medford,2
+april-1-2020,medford lakes,1
+april-1-2020,moorestown,12
+april-1-2020,mount holly,4
+april-1-2020,mount laurel,25
+april-1-2020,new hanover township,1
+april-1-2020,palmyra,1
+april-1-2020,pemberton,1
+april-1-2020,pemberton township,15
+april-1-2020,riverside township,4
+april-1-2020,riverton,9
+april-1-2020,shamong township,2
+april-1-2020,southampton township,1
+april-1-2020,tabernacle township,3
+april-1-2020,westampton township,3
+april-1-2020,willingboro township,27
+april-1-2020,wrightstown,1
+april-1-2020,audubon,2
+april-1-2020,barrington,4
+april-1-2020,bellmawr,3
+april-1-2020,berlin township,1
+april-1-2020,brooklawn,1
+april-1-2020,camden,16
+april-1-2020,cherry hill,62
+april-1-2020,chesilhurst,1
+april-1-2020,collingswood,3
+april-1-2020,gloucester township,36
+april-1-2020,haddon heights,3
+april-1-2020,haddon township,7
+april-1-2020,haddonfield,6
+april-1-2020,lawnside,1
+april-1-2020,lindenwold,7
+april-1-2020,magnolia,3
+april-1-2020,merchantville,2
+april-1-2020,oaklyn,2
+april-1-2020,pennsauken township,25
+april-1-2020,pine hill,5
+april-1-2020,runnemede,1
+april-1-2020,stratford,1
+april-1-2020,somerdale,3
+april-1-2020,voorhees township,15
+april-1-2020,waterford township,3
+april-1-2020,winslow township,27
+april-1-2020,woodlynne,2
+april-1-2020,avalon,1
+april-1-2020,cape may,3
+april-1-2020,lower township,5
+april-1-2020,middle township,3
+april-1-2020,north wildwood,1
+april-1-2020,ocean township,4
+april-1-2020,sea isle city,1
+april-1-2020,upper township,1
+april-1-2020,wildwood,2
+april-1-2020,wildwood crest,1
+april-1-2020,bridgeton,2
+april-1-2020,deerfield township,1
+april-1-2020,hopewell,2
+april-1-2020,lawrence township,1
+april-1-2020,millville,2
+april-1-2020,vineland,18
+april-1-2020,belleville,144
+april-1-2020,bloomfield,131
+april-1-2020,caldwell,20
+april-1-2020,cedar grove,26
+april-1-2020,east orange,237
+april-1-2020,essex fells,7
+april-1-2020,fairfield township,21
+april-1-2020,glen ridge,12
+april-1-2020,irvington,187
+april-1-2020,livingston,108
+april-1-2020,maplewood,54
+april-1-2020,millburn,48
+april-1-2020,montclair,96
+april-1-2020,newark,661
+april-1-2020,nutley,104
+april-1-2020,city of orange,114
+april-1-2020,roseland,17
+april-1-2020,south orange village,24
+april-1-2020,verona,25
+april-1-2020,west caldwell,27
+april-1-2020,west orange,147
+april-1-2020,clayton,2
+april-1-2020,deptford township,16
+april-1-2020,east greenwich township,5
+april-1-2020,franklin,2
+april-1-2020,greenwich township,9
+april-1-2020,glassboro,14
+april-1-2020,harrison,33
+april-1-2020,logan township,5
+april-1-2020,mantua township,7
+april-1-2020,monroe township,91
+april-1-2020,paulsboro,2
+april-1-2020,pitman,3
+april-1-2020,washington,7
+april-1-2020,wenonah,1
+april-1-2020,west deptford township,8
+april-1-2020,westville,3
+april-1-2020,woodbury,6
+april-1-2020,woodbury heights,3
+april-1-2020,woolwich township,14
+april-1-2020,bayonne,136
+april-1-2020,east newark,5
+april-1-2020,guttenberg,15
+april-1-2020,hoboken,116
+april-1-2020,jersey city,820
+april-1-2020,kearny,76
+april-1-2020,north bergen,263
+april-1-2020,secaucus,74
+april-1-2020,union township,3
+april-1-2020,west new york,77
+april-1-2020,alexandria township,2
+april-1-2020,bethlehem township,3
+april-1-2020,bloomsbury,1
+april-1-2020,califon,2
+april-1-2020,clinton township,18
+april-1-2020,delaware township,4
+april-1-2020,east amwell township,3
+april-1-2020,flemington,6
+april-1-2020,frenchtown,2
+april-1-2020,glen gardner,1
+april-1-2020,hampton,3
+april-1-2020,high bridge,4
+april-1-2020,holland township,3
+april-1-2020,kingwood township,2
+april-1-2020,lambertville,6
+april-1-2020,lebanon,1
+april-1-2020,lebanon township,4
+april-1-2020,raritan township,22
+april-1-2020,readington township,12
+april-1-2020,tewksbury township,4
+april-1-2020,west amwell township,3
+april-1-2020,carteret,41
+april-1-2020,cranbury,5
+april-1-2020,dunellen,10
+april-1-2020,east brunswick,70
+april-1-2020,edison,75
+april-1-2020,helmetta,4
+april-1-2020,highland park,19
+april-1-2020,jamesburg,13
+april-1-2020,metuchen,10
+april-1-2020,middlesex,20
+april-1-2020,milltown,1
+april-1-2020,new brunswick,45
+april-1-2020,north brunswick,50
+april-1-2020,old bridge township,113
+april-1-2020,perth amboy,100
+april-1-2020,piscataway,56
+april-1-2020,plainsboro township,23
+april-1-2020,sayreville,68
+april-1-2020,south amboy,15
+april-1-2020,south brunswick,35
+april-1-2020,south plainfield,49
+april-1-2020,south river,14
+april-1-2020,spotswood,4
+april-1-2020,woodbridge township,132
+april-1-2020,asbury park,19
+april-1-2020,atlantic highlands,7
+april-1-2020,avon-by-the-sea,3
+april-1-2020,belmar,2
+april-1-2020,bradley beach,5
+april-1-2020,brielle,7
+april-1-2020,colts neck township,23
+april-1-2020,deal,6
+april-1-2020,eatontown,38
+april-1-2020,englishtown,10
+april-1-2020,fair haven,12
+april-1-2020,farmingdale,6
+april-1-2020,freehold township,94
+april-1-2020,hazlet,45
+april-1-2020,highlands,5
+april-1-2020,holmdel township,44
+april-1-2020,howell township,84
+april-1-2020,keansburg,24
+april-1-2020,keyport,10
+april-1-2020,lake como,4
+april-1-2020,little silver,15
+april-1-2020,long branch,43
+april-1-2020,manalapan township,82
+april-1-2020,manasquan,14
+april-1-2020,marlboro township,89
+april-1-2020,matawan,33
+april-1-2020,middletown township,112
+april-1-2020,millstone,2
+april-1-2020,monmouth beach,4
+april-1-2020,neptune township,46
+april-1-2020,oceanport,13
+april-1-2020,red bank,22
+april-1-2020,rumson,17
+april-1-2020,sea bright,2
+april-1-2020,sea girt,6
+april-1-2020,shrewsbury,14
+april-1-2020,shrewsbury township,3
+april-1-2020,spring lake,5
+april-1-2020,spring lake heights,7
+april-1-2020,tinton falls,20
+april-1-2020,union beach,1
+april-1-2020,upper freehold township,10
+april-1-2020,wall township,40
+april-1-2020,west long branch,17
+april-1-2020,boonton,11
+april-1-2020,boonton township,10
+april-1-2020,butler,13
+april-1-2020,chatham township,14
+april-1-2020,chester township,4
+april-1-2020,denville township,17
+april-1-2020,dover,57
+april-1-2020,east hanover township,39
+april-1-2020,florham park,35
+april-1-2020,hanover township,27
+april-1-2020,harding township,10
+april-1-2020,jefferson township,19
+april-1-2020,kinnelon,12
+april-1-2020,lincoln park,28
+april-1-2020,long hill township,8
+april-1-2020,madison,25
+april-1-2020,mendham township,14
+april-1-2020,montville,42
+april-1-2020,morris plains,14
+april-1-2020,morris township,53
+april-1-2020,morristown,62
+april-1-2020,mount arlington,4
+april-1-2020,mount olive township,34
+april-1-2020,mountain lakes,4
+april-1-2020,netcong,3
+april-1-2020,parsippany-troy hills,82
+april-1-2020,pequannock township,22
+april-1-2020,randolph,47
+april-1-2020,riverdale,8
+april-1-2020,rockaway,7
+april-1-2020,rockaway township,33
+april-1-2020,roxbury township,26
+april-1-2020,victory gardens,3
+april-1-2020,washington township,1
+april-1-2020,wharton,21
+april-1-2020,barnegat township,35
+april-1-2020,barnegat light,2
+april-1-2020,bay head,2
+april-1-2020,beach haven,3
+april-1-2020,beachwood,9
+april-1-2020,berkeley township,68
+april-1-2020,brick township,104
+april-1-2020,island heights,1
+april-1-2020,jackson township,100
+april-1-2020,lacey township,31
+april-1-2020,lakehurst,2
+april-1-2020,lakewood township,438
+april-1-2020,lavallette,2
+april-1-2020,little egg harbor township,9
+april-1-2020,long beach township,3
+april-1-2020,manchester township,55
+april-1-2020,plumsted township,4
+april-1-2020,point pleasant beach,3
+april-1-2020,point pleasant,30
+april-1-2020,seaside heights,6
+april-1-2020,seaside park,2
+april-1-2020,ship bottom,2
+april-1-2020,south toms river,13
+april-1-2020,surf city,1
+april-1-2020,stafford township,23
+april-1-2020,toms river,156
+april-1-2020,bloomingdale,19
+april-1-2020,clifton,234
+april-1-2020,haledon,24
+april-1-2020,hawthorne,58
+april-1-2020,little falls,17
+april-1-2020,north haledon,18
+april-1-2020,passaic,178
+april-1-2020,paterson,238
+april-1-2020,pompton lakes,32
+april-1-2020,prospect park,13
+april-1-2020,ringwood,23
+april-1-2020,totowa,18
+april-1-2020,wanaque,40
+april-1-2020,wayne,151
+april-1-2020,west milford,36
+april-1-2020,woodland park,27
+april-1-2020,alloway township,2
+april-1-2020,elmer,1
+april-1-2020,quinton township,1
+april-1-2020,oldmans township,1
+april-1-2020,penns grove,4
+april-1-2020,pennsville township,3
+april-1-2020,pilesgrove township,1
+april-1-2020,salem,1
+april-1-2020,woodstown,2
+april-1-2020,bedminster,9
+april-1-2020,bernards township,33
+april-1-2020,bernardsville,15
+april-1-2020,bound brook,15
+april-1-2020,branchburg,23
+april-1-2020,bridgewater township,56
+april-1-2020,far hills,2
+april-1-2020,green brook township,18
+april-1-2020,hillsborough township,40
+april-1-2020,manville,19
+april-1-2020,montgomery,17
+april-1-2020,north plainfield,29
+april-1-2020,peapack and gladstone,2
+april-1-2020,raritan,6
+april-1-2020,rocky hill,2
+april-1-2020,somerville,18
+april-1-2020,south bound brook,8
+april-1-2020,warren township,21
+april-1-2020,watchung,15
+april-1-2020,andover,1
+april-1-2020,andover township,4
+april-1-2020,branchville,2
+april-1-2020,byram township,5
+april-1-2020,frankford township,6
+april-1-2020,fredon township,2
+april-1-2020,green township,1
+april-1-2020,hamburg,3
+april-1-2020,hardyston township,8
+april-1-2020,hopatcong,13
+april-1-2020,lafayette township,1
+april-1-2020,montague township,1
+april-1-2020,newton,17
+april-1-2020,ogdensburg,3
+april-1-2020,sandyston township,1
+april-1-2020,sparta township,24
+april-1-2020,stanhope,4
+april-1-2020,sussex,4
+april-1-2020,vernon township,16
+april-1-2020,wantage township,11
+april-1-2020,cranford,57
+april-1-2020,linden,27
+april-1-2020,rahway,63
+april-1-2020,summit,40
+april-1-2020,westfield,38
+april-1-2020,roselle,38
+april-1-2020,new providence,18
+april-1-2020,kenilworth,18
+april-1-2020,elizabeth,361
+april-1-2020,allamuchy township,4
+april-1-2020,belvidere,1
+april-1-2020,frelinghuysen township,1
+april-1-2020,hackettstown,9
+april-1-2020,hardwick township,2
+april-1-2020,harmony township,3
+april-1-2020,hope township,6
+april-1-2020,independence township,5
+april-1-2020,knowlton township,2
+april-1-2020,liberty township,3
+april-1-2020,lopatcong township,12
+april-1-2020,phillipsburg,15
+april-1-2020,pohatcong township,3
+april-1-2020,white township,1
+april-2-2020,allendale,16
+april-2-2020,alpine,9
+april-2-2020,bergenfield,186
+april-2-2020,bogota,52
+april-2-2020,carlstadt,24
+april-2-2020,cliffside park,95
+april-2-2020,closter,20
+april-2-2020,cresskill,26
+april-2-2020,demarest,17
+april-2-2020,dumont,73
+april-2-2020,east rutherford,30
+april-2-2020,edgewater,41
+april-2-2020,elmwood park,92
+april-2-2020,emerson,25
+april-2-2020,englewood,184
+april-2-2020,englewood cliffs,11
+april-2-2020,fair lawn,158
+april-2-2020,fairview,47
+april-2-2020,fort lee,114
+april-2-2020,franklin lakes,47
+april-2-2020,garfield,106
+april-2-2020,glen rock,34
+april-2-2020,harrington park,5
+april-2-2020,hasbrouck heights,50
+april-2-2020,haworth,9
+april-2-2020,hillsdale,32
+april-2-2020,ho-ho-kus,15
+april-2-2020,leonia,26
+april-2-2020,little ferry,49
+april-2-2020,lodi,117
+april-2-2020,lyndhurst,67
+april-2-2020,mahwah,59
+april-2-2020,maywood,32
+april-2-2020,midland park,19
+april-2-2020,montvale,29
+april-2-2020,moonachie,19
+april-2-2020,new milford,105
+april-2-2020,north arlington,30
+april-2-2020,northvale,12
+april-2-2020,norwood,21
+april-2-2020,oakland,42
+april-2-2020,old tappan,29
+april-2-2020,oradell,38
+april-2-2020,palisades park,44
+april-2-2020,paramus,106
+april-2-2020,park ridge,25
+april-2-2020,ramsey,25
+april-2-2020,ridgefield,32
+april-2-2020,ridgefield park,55
+april-2-2020,ridgewood,77
+april-2-2020,river edge,47
+april-2-2020,river vale,20
+april-2-2020,rochelle park,21
+april-2-2020,rockleigh,2
+april-2-2020,rutherford,42
+april-2-2020,saddle brook,60
+april-2-2020,saddle river,13
+april-2-2020,south hackensack,18
+april-2-2020,teaneck,373
+april-2-2020,tenafly,40
+april-2-2020,teterboro,1
+april-2-2020,upper saddle river,30
+april-2-2020,waldwick,33
+april-2-2020,wallington,23
+april-2-2020,washington township,3
+april-2-2020,westwood,35
+april-2-2020,wood-ridge,32
+april-2-2020,woodcliff lake,21
+april-2-2020,wyckoff,50
+april-2-2020,beverly,4
+april-2-2020,bordentown,1
+april-2-2020,bordentown township,10
+april-2-2020,burlington,3
+april-2-2020,burlington township,20
+april-2-2020,chesterfield township,1
+april-2-2020,cinnaminson township,4
+april-2-2020,delanco township,3
+april-2-2020,delran township,11
+april-2-2020,eastampton township,2
+april-2-2020,edgewater park,4
+april-2-2020,evesham township,24
+april-2-2020,florence township,3
+april-2-2020,hainesport township,3
+april-2-2020,lumberton township,7
+april-2-2020,mansfield township,7
+april-2-2020,maple shade township,8
+april-2-2020,medford,8
+april-2-2020,medford lakes,1
+april-2-2020,moorestown,16
+april-2-2020,mount holly,6
+april-2-2020,mount laurel,28
+april-2-2020,new hanover township,1
+april-2-2020,palmyra,2
+april-2-2020,pemberton,1
+april-2-2020,pemberton township,18
+april-2-2020,riverside township,4
+april-2-2020,riverton,9
+april-2-2020,shamong township,2
+april-2-2020,southampton township,1
+april-2-2020,tabernacle township,3
+april-2-2020,westampton township,4
+april-2-2020,willingboro township,39
+april-2-2020,wrightstown,1
+april-2-2020,audubon,2
+april-2-2020,barrington,4
+april-2-2020,bellmawr,3
+april-2-2020,berlin township,1
+april-2-2020,brooklawn,1
+april-2-2020,camden,16
+april-2-2020,cherry hill,62
+april-2-2020,chesilhurst,1
+april-2-2020,collingswood,3
+april-2-2020,gloucester township,36
+april-2-2020,haddon heights,3
+april-2-2020,haddon township,7
+april-2-2020,haddonfield,6
+april-2-2020,lawnside,1
+april-2-2020,lindenwold,7
+april-2-2020,magnolia,3
+april-2-2020,merchantville,2
+april-2-2020,oaklyn,2
+april-2-2020,pennsauken township,25
+april-2-2020,pine hill,5
+april-2-2020,runnemede,1
+april-2-2020,stratford,1
+april-2-2020,somerdale,3
+april-2-2020,voorhees township,15
+april-2-2020,waterford township,3
+april-2-2020,winslow township,27
+april-2-2020,woodlynne,2
+april-2-2020,avalon,6
+april-2-2020,cape may,3
+april-2-2020,dennis township,3
+april-2-2020,lower township,8
+april-2-2020,middle township,3
+april-2-2020,north wildwood,2
+april-2-2020,ocean township,4
+april-2-2020,sea isle city,1
+april-2-2020,upper township,2
+april-2-2020,wildwood,2
+april-2-2020,wildwood crest,1
+april-2-2020,bridgeton,2
+april-2-2020,commercial township,1
+april-2-2020,deerfield township,1
+april-2-2020,hopewell,2
+april-2-2020,lawrence township,1
+april-2-2020,millville,4
+april-2-2020,vineland,18
+april-2-2020,belleville,165
+april-2-2020,bloomfield,153
+april-2-2020,caldwell,23
+april-2-2020,cedar grove,42
+april-2-2020,east orange,279
+april-2-2020,essex fells,8
+april-2-2020,fairfield township,23
+april-2-2020,glen ridge,13
+april-2-2020,irvington,226
+april-2-2020,livingston,119
+april-2-2020,maplewood,59
+april-2-2020,millburn,49
+april-2-2020,montclair,109
+april-2-2020,newark,795
+april-2-2020,nutley,120
+april-2-2020,city of orange,137
+april-2-2020,roseland,20
+april-2-2020,south orange village,26
+april-2-2020,verona,33
+april-2-2020,west caldwell,29
+april-2-2020,west orange,168
+april-2-2020,clayton,2
+april-2-2020,deptford township,18
+april-2-2020,east greenwich township,6
+april-2-2020,franklin,3
+april-2-2020,greenwich township,10
+april-2-2020,glassboro,14
+april-2-2020,harrison,34
+april-2-2020,logan township,5
+april-2-2020,mantua township,8
+april-2-2020,monroe township,106
+april-2-2020,national park,1
+april-2-2020,paulsboro,4
+april-2-2020,pitman,3
+april-2-2020,washington,7
+april-2-2020,wenonah,1
+april-2-2020,west deptford township,8
+april-2-2020,westville,3
+april-2-2020,woodbury,7
+april-2-2020,woodbury heights,3
+april-2-2020,woolwich township,15
+april-2-2020,bayonne,156
+april-2-2020,east newark,5
+april-2-2020,guttenberg,15
+april-2-2020,hoboken,129
+april-2-2020,kearny,88
+april-2-2020,north bergen,263
+april-2-2020,secaucus,87
+april-2-2020,union township,3
+april-2-2020,west new york,77
+april-2-2020,alexandria township,2
+april-2-2020,bethlehem township,4
+april-2-2020,bloomsbury,1
+april-2-2020,califon,2
+april-2-2020,clinton township,20
+april-2-2020,delaware township,4
+april-2-2020,east amwell township,3
+april-2-2020,flemington,6
+april-2-2020,frenchtown,2
+april-2-2020,glen gardner,1
+april-2-2020,hampton,3
+april-2-2020,high bridge,5
+april-2-2020,holland township,4
+april-2-2020,kingwood township,2
+april-2-2020,lambertville,8
+april-2-2020,lebanon,1
+april-2-2020,lebanon township,4
+april-2-2020,raritan township,24
+april-2-2020,readington township,14
+april-2-2020,tewksbury township,4
+april-2-2020,west amwell township,3
+april-2-2020,carteret,49
+april-2-2020,cranbury,5
+april-2-2020,dunellen,13
+april-2-2020,east brunswick,89
+april-2-2020,edison,75
+april-2-2020,helmetta,5
+april-2-2020,highland park,22
+april-2-2020,jamesburg,14
+april-2-2020,metuchen,12
+april-2-2020,middlesex,25
+april-2-2020,milltown,5
+april-2-2020,new brunswick,63
+april-2-2020,north brunswick,66
+april-2-2020,old bridge township,128
+april-2-2020,perth amboy,112
+april-2-2020,piscataway,72
+april-2-2020,plainsboro township,31
+april-2-2020,sayreville,72
+april-2-2020,south amboy,15
+april-2-2020,south brunswick,43
+april-2-2020,south plainfield,52
+april-2-2020,south river,21
+april-2-2020,spotswood,5
+april-2-2020,woodbridge township,133
+april-2-2020,aberdeen township,3
+april-2-2020,asbury park,20
+april-2-2020,atlantic highlands,8
+april-2-2020,avon-by-the-sea,3
+april-2-2020,belmar,2
+april-2-2020,bradley beach,6
+april-2-2020,brielle,10
+april-2-2020,colts neck township,23
+april-2-2020,deal,7
+april-2-2020,eatontown,42
+april-2-2020,englishtown,12
+april-2-2020,fair haven,13
+april-2-2020,farmingdale,6
+april-2-2020,freehold township,101
+april-2-2020,hazlet,50
+april-2-2020,highlands,6
+april-2-2020,holmdel township,49
+april-2-2020,howell township,102
+april-2-2020,keansburg,26
+april-2-2020,keyport,10
+april-2-2020,lake como,4
+april-2-2020,little silver,17
+april-2-2020,long branch,48
+april-2-2020,manalapan township,98
+april-2-2020,manasquan,14
+april-2-2020,marlboro township,99
+april-2-2020,matawan,33
+april-2-2020,middletown township,127
+april-2-2020,millstone,2
+april-2-2020,monmouth beach,4
+april-2-2020,neptune township,51
+april-2-2020,oceanport,14
+april-2-2020,red bank,27
+april-2-2020,rumson,17
+april-2-2020,sea bright,2
+april-2-2020,sea girt,6
+april-2-2020,shrewsbury,15
+april-2-2020,shrewsbury township,3
+april-2-2020,spring lake,5
+april-2-2020,spring lake heights,7
+april-2-2020,tinton falls,24
+april-2-2020,union beach,1
+april-2-2020,upper freehold township,14
+april-2-2020,wall township,49
+april-2-2020,west long branch,17
+april-2-2020,boonton,11
+april-2-2020,boonton township,10
+april-2-2020,butler,16
+april-2-2020,chatham township,15
+april-2-2020,chester township,6
+april-2-2020,denville township,23
+april-2-2020,dover,66
+april-2-2020,east hanover township,40
+april-2-2020,florham park,39
+april-2-2020,hanover township,29
+april-2-2020,harding township,10
+april-2-2020,jefferson township,23
+april-2-2020,kinnelon,13
+april-2-2020,lincoln park,28
+april-2-2020,long hill township,8
+april-2-2020,madison,25
+april-2-2020,mendham township,15
+april-2-2020,mine hill township,6
+april-2-2020,montville,52
+april-2-2020,morris plains,10
+april-2-2020,morris township,56
+april-2-2020,morristown,69
+april-2-2020,mount arlington,4
+april-2-2020,mount olive township,36
+april-2-2020,mountain lakes,5
+april-2-2020,netcong,4
+april-2-2020,parsippany-troy hills,91
+april-2-2020,pequannock township,24
+april-2-2020,randolph,53
+april-2-2020,riverdale,9
+april-2-2020,rockaway,11
+april-2-2020,rockaway township,40
+april-2-2020,roxbury township,30
+april-2-2020,victory gardens,4
+april-2-2020,wharton,22
+april-2-2020,barnegat township,38
+april-2-2020,barnegat light,2
+april-2-2020,bay head,2
+april-2-2020,beach haven,3
+april-2-2020,beachwood,11
+april-2-2020,berkeley township,83
+april-2-2020,brick township,125
+april-2-2020,island heights,2
+april-2-2020,jackson township,114
+april-2-2020,lacey township,36
+april-2-2020,lakehurst,3
+april-2-2020,lakewood township,450
+april-2-2020,lavallette,3
+april-2-2020,little egg harbor township,9
+april-2-2020,long beach township,5
+april-2-2020,manchester township,67
+april-2-2020,plumsted township,3
+april-2-2020,point pleasant beach,4
+april-2-2020,point pleasant,36
+april-2-2020,seaside heights,5
+april-2-2020,seaside park,2
+april-2-2020,ship bottom,3
+april-2-2020,south toms river,16
+april-2-2020,surf city,1
+april-2-2020,stafford township,25
+april-2-2020,toms river,204
+april-2-2020,bloomingdale,19
+april-2-2020,clifton,234
+april-2-2020,haledon,24
+april-2-2020,hawthorne,58
+april-2-2020,little falls,17
+april-2-2020,north haledon,18
+april-2-2020,passaic,178
+april-2-2020,paterson,238
+april-2-2020,pompton lakes,32
+april-2-2020,prospect park,13
+april-2-2020,ringwood,23
+april-2-2020,totowa,18
+april-2-2020,wanaque,40
+april-2-2020,wayne,151
+april-2-2020,west milford,36
+april-2-2020,woodland park,27
+april-2-2020,alloway township,3
+april-2-2020,elmer,1
+april-2-2020,quinton township,1
+april-2-2020,oldmans township,1
+april-2-2020,penns grove,4
+april-2-2020,pennsville township,4
+april-2-2020,pilesgrove township,1
+april-2-2020,salem,2
+april-2-2020,woodstown,2
+april-2-2020,bedminster,11
+april-2-2020,bernards township,36
+april-2-2020,bernardsville,16
+april-2-2020,bound brook,18
+april-2-2020,branchburg,27
+april-2-2020,bridgewater township,63
+april-2-2020,far hills,2
+april-2-2020,green brook township,23
+april-2-2020,hillsborough township,45
+april-2-2020,manville,22
+april-2-2020,montgomery,20
+april-2-2020,north plainfield,35
+april-2-2020,peapack and gladstone,3
+april-2-2020,raritan,10
+april-2-2020,rocky hill,2
+april-2-2020,somerville,21
+april-2-2020,south bound brook,10
+april-2-2020,warren township,22
+april-2-2020,watchung,15
+april-2-2020,andover,1
+april-2-2020,andover township,9
+april-2-2020,branchville,2
+april-2-2020,byram township,8
+april-2-2020,frankford township,7
+april-2-2020,fredon township,3
+april-2-2020,green township,2
+april-2-2020,hamburg,3
+april-2-2020,hardyston township,9
+april-2-2020,hopatcong,17
+april-2-2020,lafayette township,1
+april-2-2020,montague township,1
+april-2-2020,newton,22
+april-2-2020,ogdensburg,3
+april-2-2020,sandyston township,1
+april-2-2020,sparta township,28
+april-2-2020,stanhope,5
+april-2-2020,sussex,4
+april-2-2020,vernon township,16
+april-2-2020,wantage township,13
+april-2-2020,berkeley heights,41
+april-2-2020,clark,33
+april-2-2020,cranford,72
+april-2-2020,elizabeth,526
+april-2-2020,kenilworth,18
+april-2-2020,linden,168
+april-2-2020,mountainside,9
+april-2-2020,new providence,21
+april-2-2020,plainfield,73
+april-2-2020,rahway,70
+april-2-2020,roselle,38
+april-2-2020,scotch plains,34
+april-2-2020,summit,40
+april-2-2020,westfield,39
+april-2-2020,allamuchy township,4
+april-2-2020,belvidere,2
+april-2-2020,blairstown,1
+april-2-2020,frelinghuysen township,1
+april-2-2020,hackettstown,9
+april-2-2020,hardwick township,2
+april-2-2020,harmony township,4
+april-2-2020,hope township,6
+april-2-2020,independence township,3
+april-2-2020,knowlton township,2
+april-2-2020,liberty township,3
+april-2-2020,lopatcong township,14
+april-2-2020,phillipsburg,18
+april-2-2020,pohatcong township,4
+april-2-2020,white township,2
+april-3-2020,allendale,19
+april-3-2020,alpine,11
+april-3-2020,bergenfield,224
+april-3-2020,bogota,63
+april-3-2020,carlstadt,25
+april-3-2020,cliffside park,108
+april-3-2020,closter,25
+april-3-2020,cresskill,29
+april-3-2020,demarest,18
+april-3-2020,dumont,77
+april-3-2020,east rutherford,33
+april-3-2020,edgewater,46
+april-3-2020,elmwood park,105
+april-3-2020,emerson,27
+april-3-2020,englewood,204
+april-3-2020,englewood cliffs,13
+april-3-2020,fair lawn,177
+april-3-2020,fairview,65
+april-3-2020,fort lee,116
+april-3-2020,franklin lakes,54
+april-3-2020,garfield,126
+april-3-2020,glen rock,44
+april-3-2020,hackensack,261
+april-3-2020,harrington park,6
+april-3-2020,hasbrouck heights,57
+april-3-2020,haworth,9
+april-3-2020,hillsdale,39
+april-3-2020,ho-ho-kus,17
+april-3-2020,leonia,35
+april-3-2020,little ferry,51
+april-3-2020,lodi,176
+april-3-2020,lyndhurst,72
+april-3-2020,mahwah,71
+april-3-2020,maywood,34
+april-3-2020,midland park,26
+april-3-2020,montvale,32
+april-3-2020,moonachie,21
+april-3-2020,new milford,113
+april-3-2020,north arlington,39
+april-3-2020,northvale,14
+april-3-2020,norwood,23
+april-3-2020,oakland,52
+april-3-2020,old tappan,29
+april-3-2020,oradell,43
+april-3-2020,palisades park,51
+april-3-2020,paramus,129
+april-3-2020,park ridge,29
+april-3-2020,ramsey,42
+april-3-2020,ridgefield,40
+april-3-2020,ridgefield park,67
+april-3-2020,ridgewood,93
+april-3-2020,river edge,50
+april-3-2020,river vale,23
+april-3-2020,rochelle park,23
+april-3-2020,rockleigh,2
+april-3-2020,rutherford,41
+april-3-2020,saddle brook,68
+april-3-2020,saddle river,13
+april-3-2020,south hackensack,19
+april-3-2020,teaneck,398
+april-3-2020,tenafly,46
+april-3-2020,teterboro,1
+april-3-2020,upper saddle river,28
+april-3-2020,waldwick,37
+april-3-2020,wallington,29
+april-3-2020,washington township,3
+april-3-2020,westwood,37
+april-3-2020,wood-ridge,25
+april-3-2020,woodcliff lake,36
+april-3-2020,wyckoff,70
+april-3-2020,beverly,4
+april-3-2020,bordentown,3
+april-3-2020,bordentown township,12
+april-3-2020,burlington,3
+april-3-2020,burlington township,21
+april-3-2020,chesterfield township,1
+april-3-2020,cinnaminson township,6
+april-3-2020,delanco township,3
+april-3-2020,delran township,11
+april-3-2020,eastampton township,2
+april-3-2020,edgewater park,4
+april-3-2020,evesham township,27
+april-3-2020,florence township,4
+april-3-2020,hainesport township,4
+april-3-2020,lumberton township,7
+april-3-2020,mansfield township,7
+april-3-2020,maple shade township,10
+april-3-2020,medford,8
+april-3-2020,medford lakes,1
+april-3-2020,moorestown,20
+april-3-2020,mount holly,6
+april-3-2020,mount laurel,30
+april-3-2020,new hanover township,1
+april-3-2020,palmyra,3
+april-3-2020,pemberton,1
+april-3-2020,pemberton township,19
+april-3-2020,riverside township,4
+april-3-2020,riverton,9
+april-3-2020,shamong township,2
+april-3-2020,southampton township,2
+april-3-2020,tabernacle township,4
+april-3-2020,westampton township,4
+april-3-2020,willingboro township,45
+april-3-2020,wrightstown,1
+april-3-2020,audubon,3
+april-3-2020,barrington,5
+april-3-2020,bellmawr,4
+april-3-2020,berlin township,1
+april-3-2020,brooklawn,2
+april-3-2020,camden,26
+april-3-2020,cherry hill,69
+april-3-2020,chesilhurst,1
+april-3-2020,collingswood,4
+april-3-2020,gloucester township,41
+april-3-2020,haddon heights,3
+april-3-2020,haddon township,7
+april-3-2020,haddonfield,6
+april-3-2020,lawnside,1
+april-3-2020,lindenwold,10
+april-3-2020,magnolia,3
+april-3-2020,merchantville,3
+april-3-2020,oaklyn,2
+april-3-2020,pennsauken township,30
+april-3-2020,pine hill,6
+april-3-2020,runnemede,2
+april-3-2020,stratford,1
+april-3-2020,somerdale,4
+april-3-2020,voorhees township,16
+april-3-2020,waterford township,3
+april-3-2020,winslow township,34
+april-3-2020,woodlynne,2
+april-3-2020,avalon,5
+april-3-2020,cape may,1
+april-3-2020,dennis township,3
+april-3-2020,lower township,7
+april-3-2020,middle township,5
+april-3-2020,north wildwood,2
+april-3-2020,ocean township,4
+april-3-2020,sea isle city,0
+april-3-2020,upper township,4
+april-3-2020,wildwood,4
+april-3-2020,wildwood crest,4
+april-3-2020,bridgeton,4
+april-3-2020,commercial township,1
+april-3-2020,deerfield township,1
+april-3-2020,hopewell,2
+april-3-2020,lawrence township,1
+april-3-2020,millville,5
+april-3-2020,vineland,19
+april-3-2020,upper deerfield township,1
+april-3-2020,belleville,165
+april-3-2020,bloomfield,153
+april-3-2020,caldwell,23
+april-3-2020,cedar grove,42
+april-3-2020,east orange,279
+april-3-2020,essex fells,8
+april-3-2020,fairfield township,23
+april-3-2020,glen ridge,13
+april-3-2020,irvington,226
+april-3-2020,livingston,119
+april-3-2020,maplewood,59
+april-3-2020,millburn,49
+april-3-2020,montclair,109
+april-3-2020,newark,795
+april-3-2020,nutley,120
+april-3-2020,city of orange,137
+april-3-2020,roseland,20
+april-3-2020,south orange village,26
+april-3-2020,verona,33
+april-3-2020,west caldwell,29
+april-3-2020,west orange,168
+april-3-2020,clayton,2
+april-3-2020,deptford township,25
+april-3-2020,east greenwich township,7
+april-3-2020,franklin,3
+april-3-2020,greenwich township,12
+april-3-2020,glassboro,14
+april-3-2020,harrison,34
+april-3-2020,logan township,5
+april-3-2020,mantua township,8
+april-3-2020,monroe township,126
+april-3-2020,national park,1
+april-3-2020,paulsboro,4
+april-3-2020,pitman,3
+april-3-2020,swedesboro,1
+april-3-2020,wenonah,1
+april-3-2020,west deptford township,8
+april-3-2020,westville,3
+april-3-2020,woodbury,7
+april-3-2020,woodbury heights,3
+april-3-2020,woolwich township,15
+april-3-2020,bayonne,184
+april-3-2020,east newark,5
+april-3-2020,guttenberg,15
+april-3-2020,hoboken,152
+april-3-2020,kearny,88
+april-3-2020,north bergen,263
+april-3-2020,secaucus,87
+april-3-2020,union township,3
+april-3-2020,west new york,77
+april-3-2020,alexandria township,2
+april-3-2020,bethlehem township,4
+april-3-2020,bloomsbury,1
+april-3-2020,califon,2
+april-3-2020,clinton township,1
+april-3-2020,delaware township,4
+april-3-2020,east amwell township,4
+april-3-2020,flemington,6
+april-3-2020,frenchtown,2
+april-3-2020,glen gardner,1
+april-3-2020,hampton,4
+april-3-2020,high bridge,5
+april-3-2020,holland township,5
+april-3-2020,kingwood township,2
+april-3-2020,lambertville,9
+april-3-2020,lebanon,2
+april-3-2020,lebanon township,4
+april-3-2020,raritan township,29
+april-3-2020,readington township,14
+april-3-2020,tewksbury township,4
+april-3-2020,west amwell township,3
+april-3-2020,carteret,57
+april-3-2020,cranbury,5
+april-3-2020,dunellen,14
+april-3-2020,east brunswick,96
+april-3-2020,edison,79
+april-3-2020,helmetta,6
+april-3-2020,highland park,22
+april-3-2020,jamesburg,17
+april-3-2020,metuchen,14
+april-3-2020,middlesex,26
+april-3-2020,milltown,6
+april-3-2020,new brunswick,74
+april-3-2020,north brunswick,71
+april-3-2020,old bridge township,129
+april-3-2020,perth amboy,143
+april-3-2020,piscataway,79
+april-3-2020,plainsboro township,34
+april-3-2020,sayreville,79
+april-3-2020,south amboy,17
+april-3-2020,south brunswick,44
+april-3-2020,south plainfield,56
+april-3-2020,south river,27
+april-3-2020,spotswood,5
+april-3-2020,woodbridge township,172
+april-3-2020,aberdeen township,43
+april-3-2020,allentown,1
+april-3-2020,asbury park,24
+april-3-2020,atlantic highlands,8
+april-3-2020,avon-by-the-sea,3
+april-3-2020,belmar,4
+april-3-2020,bradley beach,7
+april-3-2020,brielle,10
+april-3-2020,colts neck township,23
+april-3-2020,deal,7
+april-3-2020,eatontown,47
+april-3-2020,englishtown,7
+april-3-2020,fair haven,13
+april-3-2020,farmingdale,6
+april-3-2020,freehold township,111
+april-3-2020,hazlet,59
+april-3-2020,highlands,6
+april-3-2020,holmdel township,55
+april-3-2020,howell township,116
+april-3-2020,keansburg,30
+april-3-2020,keyport,10
+april-3-2020,lake como,4
+april-3-2020,little silver,17
+april-3-2020,loch arbour,1
+april-3-2020,long branch,55
+april-3-2020,manalapan township,130
+april-3-2020,manasquan,14
+april-3-2020,marlboro township,110
+april-3-2020,matawan,33
+april-3-2020,middletown township,137
+april-3-2020,millstone,2
+april-3-2020,monmouth beach,5
+april-3-2020,neptune township,66
+april-3-2020,oceanport,18
+april-3-2020,red bank,29
+april-3-2020,rumson,19
+april-3-2020,sea bright,2
+april-3-2020,sea girt,5
+april-3-2020,shrewsbury,16
+april-3-2020,shrewsbury township,3
+april-3-2020,spring lake,5
+april-3-2020,spring lake heights,7
+april-3-2020,tinton falls,27
+april-3-2020,union beach,1
+april-3-2020,upper freehold township,15
+april-3-2020,wall township,55
+april-3-2020,west long branch,1
+april-3-2020,boonton,14
+april-3-2020,boonton township,13
+april-3-2020,butler,18
+april-3-2020,chatham township,18
+april-3-2020,chester township,6
+april-3-2020,denville township,31
+april-3-2020,dover,82
+april-3-2020,east hanover township,44
+april-3-2020,florham park,44
+april-3-2020,hanover township,33
+april-3-2020,harding township,13
+april-3-2020,jefferson township,28
+april-3-2020,kinnelon,15
+april-3-2020,lincoln park,35
+april-3-2020,long hill township,9
+april-3-2020,madison,28
+april-3-2020,mendham township,18
+april-3-2020,mine hill township,7
+april-3-2020,montville,56
+april-3-2020,morris plains,13
+april-3-2020,morris township,61
+april-3-2020,morristown,84
+april-3-2020,mount arlington,4
+april-3-2020,mount olive township,39
+april-3-2020,mountain lakes,7
+april-3-2020,netcong,7
+april-3-2020,parsippany-troy hills,109
+april-3-2020,pequannock township,30
+april-3-2020,randolph,58
+april-3-2020,riverdale,9
+april-3-2020,rockaway,14
+april-3-2020,rockaway township,41
+april-3-2020,roxbury township,36
+april-3-2020,victory gardens,7
+april-3-2020,wharton,30
+april-3-2020,barnegat township,39
+april-3-2020,barnegat light,2
+april-3-2020,bay head,2
+april-3-2020,beach haven,4
+april-3-2020,beachwood,12
+april-3-2020,berkeley township,91
+april-3-2020,brick township,139
+april-3-2020,island heights,2
+april-3-2020,jackson township,120
+april-3-2020,lacey township,37
+april-3-2020,lakehurst,3
+april-3-2020,lakewood township,524
+april-3-2020,lavallette,3
+april-3-2020,little egg harbor township,10
+april-3-2020,long beach township,5
+april-3-2020,manchester township,72
+april-3-2020,plumsted township,4
+april-3-2020,point pleasant beach,4
+april-3-2020,point pleasant,48
+april-3-2020,seaside heights,6
+april-3-2020,seaside park,2
+april-3-2020,ship bottom,4
+april-3-2020,south toms river,17
+april-3-2020,surf city,4
+april-3-2020,stafford township,29
+april-3-2020,toms river,221
+april-3-2020,bloomingdale,19
+april-3-2020,clifton,234
+april-3-2020,haledon,24
+april-3-2020,hawthorne,58
+april-3-2020,little falls,17
+april-3-2020,north haledon,18
+april-3-2020,passaic,178
+april-3-2020,paterson,238
+april-3-2020,pompton lakes,32
+april-3-2020,prospect park,13
+april-3-2020,ringwood,23
+april-3-2020,totowa,18
+april-3-2020,wanaque,40
+april-3-2020,wayne,151
+april-3-2020,west milford,36
+april-3-2020,woodland park,27
+april-3-2020,alloway township,3
+april-3-2020,carneys point township,1
+april-3-2020,elmer,1
+april-3-2020,quinton township,1
+april-3-2020,oldmans township,1
+april-3-2020,penns grove,6
+april-3-2020,pennsville township,5
+april-3-2020,pilesgrove township,1
+april-3-2020,salem,2
+april-3-2020,woodstown,3
+april-3-2020,bedminster,11
+april-3-2020,bernards township,36
+april-3-2020,bernardsville,16
+april-3-2020,bound brook,18
+april-3-2020,branchburg,27
+april-3-2020,bridgewater township,63
+april-3-2020,far hills,2
+april-3-2020,green brook township,23
+april-3-2020,hillsborough township,45
+april-3-2020,manville,22
+april-3-2020,montgomery,20
+april-3-2020,north plainfield,35
+april-3-2020,peapack and gladstone,3
+april-3-2020,raritan,10
+april-3-2020,rocky hill,2
+april-3-2020,somerville,21
+april-3-2020,south bound brook,10
+april-3-2020,warren township,22
+april-3-2020,watchung,15
+april-3-2020,andover,1
+april-3-2020,andover township,12
+april-3-2020,branchville,2
+april-3-2020,byram township,9
+april-3-2020,frankford township,7
+april-3-2020,fredon township,3
+april-3-2020,green township,3
+april-3-2020,hamburg,3
+april-3-2020,hardyston township,10
+april-3-2020,hopatcong,20
+april-3-2020,lafayette township,1
+april-3-2020,montague township,1
+april-3-2020,newton,25
+april-3-2020,ogdensburg,3
+april-3-2020,sandyston township,2
+april-3-2020,sparta township,30
+april-3-2020,stanhope,5
+april-3-2020,sussex,4
+april-3-2020,vernon township,20
+april-3-2020,wantage township,13
+april-3-2020,berkeley heights,41
+april-3-2020,clark,33
+april-3-2020,cranford,72
+april-3-2020,elizabeth,526
+april-3-2020,kenilworth,18
+april-3-2020,linden,168
+april-3-2020,mountainside,9
+april-3-2020,new providence,21
+april-3-2020,plainfield,73
+april-3-2020,rahway,70
+april-3-2020,roselle,38
+april-3-2020,scotch plains,34
+april-3-2020,summit,40
+april-3-2020,westfield,39
+april-3-2020,allamuchy township,7
+april-3-2020,belvidere,2
+april-3-2020,blairstown,3
+april-3-2020,frelinghuysen township,1
+april-3-2020,hackettstown,10
+april-3-2020,hardwick township,2
+april-3-2020,harmony township,5
+april-3-2020,hope township,7
+april-3-2020,independence township,2
+april-3-2020,knowlton township,3
+april-3-2020,liberty township,3
+april-3-2020,lopatcong township,15
+april-3-2020,phillipsburg,24
+april-3-2020,pohatcong township,5
+april-3-2020,washington,8
+april-3-2020,white township,9
+april-4-2020,allendale,21
+april-4-2020,alpine,11
+april-4-2020,bergenfield,252
+april-4-2020,bogota,65
+april-4-2020,carlstadt,28
+april-4-2020,cliffside park,125
+april-4-2020,closter,25
+april-4-2020,cresskill,33
+april-4-2020,demarest,19
+april-4-2020,dumont,91
+april-4-2020,east rutherford,39
+april-4-2020,edgewater,52
+april-4-2020,elmwood park,121
+april-4-2020,emerson,29
+april-4-2020,englewood,229
+april-4-2020,englewood cliffs,15
+april-4-2020,fair lawn,191
+april-4-2020,fairview,72
+april-4-2020,fort lee,132
+april-4-2020,franklin lakes,55
+april-4-2020,garfield,149
+april-4-2020,glen rock,47
+april-4-2020,hackensack,304
+april-4-2020,harrington park,6
+april-4-2020,hasbrouck heights,61
+april-4-2020,haworth,10
+april-4-2020,hillsdale,41
+april-4-2020,ho-ho-kus,19
+april-4-2020,leonia,39
+april-4-2020,little ferry,55
+april-4-2020,lodi,152
+april-4-2020,lyndhurst,87
+april-4-2020,mahwah,79
+april-4-2020,maywood,40
+april-4-2020,midland park,31
+april-4-2020,montvale,34
+april-4-2020,moonachie,23
+april-4-2020,new milford,126
+april-4-2020,north arlington,53
+april-4-2020,northvale,16
+april-4-2020,norwood,25
+april-4-2020,oakland,58
+april-4-2020,old tappan,34
+april-4-2020,oradell,48
+april-4-2020,palisades park,63
+april-4-2020,paramus,148
+april-4-2020,park ridge,36
+april-4-2020,ramsey,50
+april-4-2020,ridgefield,49
+april-4-2020,ridgefield park,73
+april-4-2020,ridgewood,103
+april-4-2020,river edge,59
+april-4-2020,river vale,24
+april-4-2020,rochelle park,32
+april-4-2020,rockleigh,2
+april-4-2020,rutherford,49
+april-4-2020,saddle brook,79
+april-4-2020,saddle river,17
+april-4-2020,south hackensack,22
+april-4-2020,teaneck,421
+april-4-2020,tenafly,50
+april-4-2020,teterboro,1
+april-4-2020,upper saddle river,32
+april-4-2020,waldwick,45
+april-4-2020,wallington,35
+april-4-2020,washington township,3
+april-4-2020,westwood,46
+april-4-2020,wood-ridge,27
+april-4-2020,woodcliff lake,41
+april-4-2020,wyckoff,74
+april-4-2020,beverly,4
+april-4-2020,bordentown,4
+april-4-2020,bordentown township,11
+april-4-2020,burlington,4
+april-4-2020,burlington township,26
+april-4-2020,chesterfield township,1
+april-4-2020,cinnaminson township,6
+april-4-2020,delanco township,4
+april-4-2020,delran township,17
+april-4-2020,eastampton township,5
+april-4-2020,edgewater park,4
+april-4-2020,evesham township,31
+april-4-2020,florence township,4
+april-4-2020,hainesport township,5
+april-4-2020,lumberton township,9
+april-4-2020,mansfield township,8
+april-4-2020,maple shade township,10
+april-4-2020,medford,9
+april-4-2020,medford lakes,0
+april-4-2020,moorestown,21
+april-4-2020,mount holly,10
+april-4-2020,mount laurel,31
+april-4-2020,new hanover township,1
+april-4-2020,north hanover township,2
+april-4-2020,palmyra,3
+april-4-2020,pemberton,1
+april-4-2020,pemberton township,21
+april-4-2020,riverside township,6
+april-4-2020,riverton,9
+april-4-2020,shamong township,4
+april-4-2020,southampton township,2
+april-4-2020,springfield township,75
+april-4-2020,tabernacle township,6
+april-4-2020,westampton township,9
+april-4-2020,willingboro township,58
+april-4-2020,wrightstown,0
+april-4-2020,audubon,4
+april-4-2020,barrington,5
+april-4-2020,bellmawr,6
+april-4-2020,berlin,2
+april-4-2020,berlin township,1
+april-4-2020,brooklawn,3
+april-4-2020,camden,34
+april-4-2020,cherry hill,79
+april-4-2020,chesilhurst,1
+april-4-2020,collingswood,4
+april-4-2020,gloucester township,50
+april-4-2020,haddon heights,3
+april-4-2020,haddon township,1
+april-4-2020,haddonfield,8
+april-4-2020,lawnside,1
+april-4-2020,lindenwold,13
+april-4-2020,magnolia,3
+april-4-2020,merchantville,3
+april-4-2020,oaklyn,3
+april-4-2020,pennsauken township,30
+april-4-2020,pine hill,9
+april-4-2020,runnemede,2
+april-4-2020,stratford,1
+april-4-2020,somerdale,4
+april-4-2020,voorhees township,20
+april-4-2020,waterford township,5
+april-4-2020,winslow township,46
+april-4-2020,woodlynne,2
+april-4-2020,avalon,5
+april-4-2020,cape may,1
+april-4-2020,dennis township,3
+april-4-2020,lower township,7
+april-4-2020,middle township,5
+april-4-2020,north wildwood,2
+april-4-2020,ocean township,6
+april-4-2020,sea isle city,0
+april-4-2020,upper township,4
+april-4-2020,wildwood,4
+april-4-2020,wildwood crest,4
+april-4-2020,bridgeton,4
+april-4-2020,commercial township,1
+april-4-2020,deerfield township,1
+april-4-2020,hopewell,2
+april-4-2020,lawrence township,1
+april-4-2020,maurice river township,1
+april-4-2020,millville,6
+april-4-2020,vineland,20
+april-4-2020,upper deerfield township,1
+april-4-2020,belleville,194
+april-4-2020,bloomfield,180
+april-4-2020,caldwell,24
+april-4-2020,cedar grove,42
+april-4-2020,east orange,310
+april-4-2020,essex fells,8
+april-4-2020,fairfield township,29
+april-4-2020,glen ridge,15
+april-4-2020,irvington,255
+april-4-2020,livingston,145
+april-4-2020,maplewood,69
+april-4-2020,millburn,56
+april-4-2020,montclair,130
+april-4-2020,newark,946
+april-4-2020,nutley,137
+april-4-2020,city of orange,163
+april-4-2020,roseland,23
+april-4-2020,south orange village,31
+april-4-2020,verona,35
+april-4-2020,west caldwell,30
+april-4-2020,west orange,194
+april-4-2020,clayton,2
+april-4-2020,deptford township,31
+april-4-2020,east greenwich township,10
+april-4-2020,franklin,4
+april-4-2020,greenwich township,16
+april-4-2020,glassboro,15
+april-4-2020,harrison,34
+april-4-2020,logan township,5
+april-4-2020,mantua township,11
+april-4-2020,monroe township,127
+april-4-2020,national park,1
+april-4-2020,paulsboro,5
+april-4-2020,pitman,3
+april-4-2020,swedesboro,1
+april-4-2020,wenonah,1
+april-4-2020,west deptford township,12
+april-4-2020,westville,3
+april-4-2020,woodbury,8
+april-4-2020,woodbury heights,3
+april-4-2020,woolwich township,15
+april-4-2020,bayonne,184
+april-4-2020,east newark,5
+april-4-2020,guttenberg,15
+april-4-2020,hoboken,152
+april-4-2020,kearny,88
+april-4-2020,north bergen,263
+april-4-2020,secaucus,87
+april-4-2020,union township,3
+april-4-2020,west new york,77
+april-4-2020,alexandria township,2
+april-4-2020,bethlehem township,4
+april-4-2020,bloomsbury,1
+april-4-2020,califon,2
+april-4-2020,clinton township,1
+april-4-2020,delaware township,4
+april-4-2020,east amwell township,4
+april-4-2020,flemington,6
+april-4-2020,frenchtown,2
+april-4-2020,glen gardner,1
+april-4-2020,hampton,6
+april-4-2020,high bridge,5
+april-4-2020,holland township,5
+april-4-2020,kingwood township,2
+april-4-2020,lambertville,9
+april-4-2020,lebanon,2
+april-4-2020,lebanon township,4
+april-4-2020,raritan township,29
+april-4-2020,readington township,14
+april-4-2020,tewksbury township,4
+april-4-2020,west amwell township,3
+april-4-2020,carteret,72
+april-4-2020,cranbury,6
+april-4-2020,dunellen,14
+april-4-2020,east brunswick,115
+april-4-2020,edison,104
+april-4-2020,helmetta,6
+april-4-2020,highland park,27
+april-4-2020,jamesburg,20
+april-4-2020,metuchen,15
+april-4-2020,middlesex,28
+april-4-2020,milltown,8
+april-4-2020,new brunswick,98
+april-4-2020,north brunswick,89
+april-4-2020,old bridge township,160
+april-4-2020,perth amboy,175
+april-4-2020,piscataway,91
+april-4-2020,plainsboro township,40
+april-4-2020,sayreville,91
+april-4-2020,south amboy,26
+april-4-2020,south brunswick,43
+april-4-2020,south plainfield,61
+april-4-2020,south river,28
+april-4-2020,spotswood,11
+april-4-2020,woodbridge township,246
+april-4-2020,aberdeen township,47
+april-4-2020,allentown,1
+april-4-2020,asbury park,29
+april-4-2020,atlantic highlands,8
+april-4-2020,avon-by-the-sea,3
+april-4-2020,belmar,4
+april-4-2020,bradley beach,8
+april-4-2020,brielle,10
+april-4-2020,colts neck township,25
+april-4-2020,deal,9
+april-4-2020,eatontown,49
+april-4-2020,englishtown,9
+april-4-2020,fair haven,14
+april-4-2020,farmingdale,8
+april-4-2020,freehold township,122
+april-4-2020,hazlet,68
+april-4-2020,highlands,6
+april-4-2020,holmdel township,59
+april-4-2020,howell township,143
+april-4-2020,keansburg,37
+april-4-2020,keyport,12
+april-4-2020,lake como,4
+april-4-2020,little silver,17
+april-4-2020,loch arbour,1
+april-4-2020,long branch,73
+april-4-2020,manalapan township,152
+april-4-2020,manasquan,15
+april-4-2020,marlboro township,126
+april-4-2020,matawan,35
+april-4-2020,middletown township,156
+april-4-2020,millstone,2
+april-4-2020,monmouth beach,7
+april-4-2020,neptune township,80
+april-4-2020,oceanport,19
+april-4-2020,red bank,34
+april-4-2020,rumson,19
+april-4-2020,sea bright,3
+april-4-2020,sea girt,7
+april-4-2020,shrewsbury,16
+april-4-2020,shrewsbury township,3
+april-4-2020,spring lake,5
+april-4-2020,spring lake heights,8
+april-4-2020,tinton falls,31
+april-4-2020,union beach,2
+april-4-2020,upper freehold township,15
+april-4-2020,wall township,66
+april-4-2020,west long branch,20
+april-4-2020,boonton,18
+april-4-2020,boonton township,13
+april-4-2020,butler,21
+april-4-2020,chatham township,20
+april-4-2020,chester township,6
+april-4-2020,denville township,33
+april-4-2020,dover,99
+april-4-2020,east hanover township,50
+april-4-2020,florham park,45
+april-4-2020,hanover township,40
+april-4-2020,harding township,13
+april-4-2020,jefferson township,34
+april-4-2020,kinnelon,18
+april-4-2020,lincoln park,40
+april-4-2020,long hill township,10
+april-4-2020,madison,32
+april-4-2020,mendham township,19
+april-4-2020,mine hill township,7
+april-4-2020,montville,61
+april-4-2020,morris plains,16
+april-4-2020,morris township,66
+april-4-2020,morristown,94
+april-4-2020,mount arlington,5
+april-4-2020,mount olive township,44
+april-4-2020,mountain lakes,8
+april-4-2020,netcong,7
+april-4-2020,parsippany-troy hills,127
+april-4-2020,pequannock township,30
+april-4-2020,randolph,65
+april-4-2020,riverdale,9
+april-4-2020,rockaway,18
+april-4-2020,rockaway township,53
+april-4-2020,roxbury township,45
+april-4-2020,victory gardens,7
+april-4-2020,wharton,33
+april-4-2020,barnegat township,46
+april-4-2020,barnegat light,2
+april-4-2020,bay head,2
+april-4-2020,beach haven,4
+april-4-2020,beachwood,19
+april-4-2020,berkeley township,114
+april-4-2020,brick township,174
+april-4-2020,island heights,2
+april-4-2020,jackson township,154
+april-4-2020,lacey township,51
+april-4-2020,lakehurst,3
+april-4-2020,lakewood township,599
+april-4-2020,lavallette,4
+april-4-2020,little egg harbor township,17
+april-4-2020,long beach township,6
+april-4-2020,manchester township,87
+april-4-2020,plumsted township,7
+april-4-2020,point pleasant beach,5
+april-4-2020,point pleasant,52
+april-4-2020,seaside heights,6
+april-4-2020,seaside park,2
+april-4-2020,ship bottom,5
+april-4-2020,south toms river,20
+april-4-2020,surf city,2
+april-4-2020,stafford township,40
+april-4-2020,toms river,280
+april-4-2020,tuckerton,1
+april-4-2020,bloomingdale,20
+april-4-2020,clifton,301
+april-4-2020,haledon,35
+april-4-2020,hawthorne,58
+april-4-2020,little falls,24
+april-4-2020,north haledon,18
+april-4-2020,passaic,244
+april-4-2020,paterson,238
+april-4-2020,pompton lakes,34
+april-4-2020,prospect park,13
+april-4-2020,ringwood,23
+april-4-2020,totowa,18
+april-4-2020,wanaque,48
+april-4-2020,wayne,194
+april-4-2020,west milford,50
+april-4-2020,woodland park,36
+april-4-2020,alloway township,3
+april-4-2020,carneys point township,1
+april-4-2020,elmer,1
+april-4-2020,quinton township,1
+april-4-2020,oldmans township,1
+april-4-2020,penns grove,6
+april-4-2020,pennsville township,5
+april-4-2020,pilesgrove township,1
+april-4-2020,salem,2
+april-4-2020,woodstown,3
+april-4-2020,bedminster,12
+april-4-2020,bernards township,37
+april-4-2020,bernardsville,18
+april-4-2020,bound brook,21
+april-4-2020,branchburg,27
+april-4-2020,bridgewater township,70
+april-4-2020,far hills,2
+april-4-2020,green brook township,26
+april-4-2020,hillsborough township,51
+april-4-2020,manville,23
+april-4-2020,montgomery,22
+april-4-2020,north plainfield,43
+april-4-2020,peapack and gladstone,6
+april-4-2020,raritan,12
+april-4-2020,rocky hill,2
+april-4-2020,somerville,23
+april-4-2020,south bound brook,12
+april-4-2020,warren township,25
+april-4-2020,watchung,19
+april-4-2020,andover,1
+april-4-2020,andover township,15
+april-4-2020,branchville,3
+april-4-2020,byram township,10
+april-4-2020,frankford township,8
+april-4-2020,fredon township,4
+april-4-2020,green township,3
+april-4-2020,hamburg,3
+april-4-2020,hardyston township,11
+april-4-2020,hopatcong,23
+april-4-2020,lafayette township,1
+april-4-2020,montague township,1
+april-4-2020,newton,27
+april-4-2020,ogdensburg,3
+april-4-2020,sandyston township,2
+april-4-2020,sparta township,35
+april-4-2020,stanhope,6
+april-4-2020,sussex,4
+april-4-2020,vernon township,24
+april-4-2020,wantage township,16
+april-4-2020,berkeley heights,41
+april-4-2020,clark,40
+april-4-2020,cranford,106
+april-4-2020,elizabeth,673
+april-4-2020,garwood,6
+april-4-2020,kenilworth,30
+april-4-2020,linden,236
+april-4-2020,mountainside,9
+april-4-2020,new providence,32
+april-4-2020,plainfield,184
+april-4-2020,rahway,103
+april-4-2020,roselle,129
+april-4-2020,scotch plains,71
+april-4-2020,summit,79
+april-4-2020,westfield,81
+april-4-2020,allamuchy township,8
+april-4-2020,alpha,2
+april-4-2020,belvidere,4
+april-4-2020,blairstown,3
+april-4-2020,frelinghuysen township,1
+april-4-2020,hackettstown,11
+april-4-2020,hardwick township,3
+april-4-2020,harmony township,5
+april-4-2020,hope township,7
+april-4-2020,independence township,5
+april-4-2020,knowlton township,4
+april-4-2020,liberty township,3
+april-4-2020,lopatcong township,20
+april-4-2020,phillipsburg,31
+april-4-2020,pohatcong township,6
+april-4-2020,washington,9
+april-4-2020,white township,12
+april-5-2020,allendale,21
+april-5-2020,alpine,11
+april-5-2020,bergenfield,252
+april-5-2020,bogota,65
+april-5-2020,carlstadt,28
+april-5-2020,cliffside park,125
+april-5-2020,closter,25
+april-5-2020,cresskill,33
+april-5-2020,demarest,19
+april-5-2020,dumont,91
+april-5-2020,east rutherford,39
+april-5-2020,edgewater,52
+april-5-2020,elmwood park,121
+april-5-2020,emerson,29
+april-5-2020,englewood,229
+april-5-2020,englewood cliffs,15
+april-5-2020,fair lawn,191
+april-5-2020,fairview,72
+april-5-2020,fort lee,132
+april-5-2020,franklin lakes,55
+april-5-2020,garfield,149
+april-5-2020,glen rock,47
+april-5-2020,hackensack,304
+april-5-2020,harrington park,6
+april-5-2020,hasbrouck heights,61
+april-5-2020,haworth,10
+april-5-2020,hillsdale,41
+april-5-2020,ho-ho-kus,19
+april-5-2020,leonia,39
+april-5-2020,little ferry,55
+april-5-2020,lodi,152
+april-5-2020,lyndhurst,87
+april-5-2020,mahwah,79
+april-5-2020,maywood,40
+april-5-2020,midland park,31
+april-5-2020,montvale,34
+april-5-2020,moonachie,23
+april-5-2020,new milford,126
+april-5-2020,north arlington,53
+april-5-2020,northvale,16
+april-5-2020,norwood,25
+april-5-2020,oakland,58
+april-5-2020,old tappan,34
+april-5-2020,oradell,48
+april-5-2020,palisades park,63
+april-5-2020,paramus,148
+april-5-2020,park ridge,36
+april-5-2020,ramsey,50
+april-5-2020,ridgefield,49
+april-5-2020,ridgefield park,73
+april-5-2020,ridgewood,104
+april-5-2020,river edge,59
+april-5-2020,river vale,24
+april-5-2020,rochelle park,32
+april-5-2020,rockleigh,2
+april-5-2020,rutherford,49
+april-5-2020,saddle brook,79
+april-5-2020,saddle river,17
+april-5-2020,south hackensack,22
+april-5-2020,teaneck,421
+april-5-2020,tenafly,50
+april-5-2020,teterboro,1
+april-5-2020,upper saddle river,32
+april-5-2020,waldwick,45
+april-5-2020,wallington,35
+april-5-2020,washington township,3
+april-5-2020,westwood,46
+april-5-2020,wood-ridge,27
+april-5-2020,woodcliff lake,41
+april-5-2020,wyckoff,74
+april-5-2020,beverly,4
+april-5-2020,bordentown,6
+april-5-2020,bordentown township,17
+april-5-2020,burlington,7
+april-5-2020,burlington township,33
+april-5-2020,chesterfield township,4
+april-5-2020,cinnaminson township,1
+april-5-2020,delanco township,4
+april-5-2020,delran township,19
+april-5-2020,eastampton township,8
+april-5-2020,edgewater park,7
+april-5-2020,evesham township,42
+april-5-2020,florence township,7
+april-5-2020,hainesport township,5
+april-5-2020,lumberton township,11
+april-5-2020,mansfield township,10
+april-5-2020,maple shade township,15
+april-5-2020,medford,14
+april-5-2020,medford lakes,2
+april-5-2020,moorestown,42
+april-5-2020,mount holly,13
+april-5-2020,mount laurel,42
+april-5-2020,new hanover township,1
+april-5-2020,north hanover township,2
+april-5-2020,palmyra,3
+april-5-2020,pemberton,1
+april-5-2020,pemberton township,26
+april-5-2020,riverside township,7
+april-5-2020,riverton,9
+april-5-2020,shamong township,5
+april-5-2020,southampton township,3
+april-5-2020,springfield township,2
+april-5-2020,tabernacle township,6
+april-5-2020,westampton township,10
+april-5-2020,willingboro township,78
+april-5-2020,wrightstown,3
+april-5-2020,audubon,6
+april-5-2020,barrington,7
+april-5-2020,bellmawr,6
+april-5-2020,berlin,4
+april-5-2020,berlin township,1
+april-5-2020,brooklawn,3
+april-5-2020,camden,52
+april-5-2020,cherry hill,102
+april-5-2020,chesilhurst,2
+april-5-2020,clementon,1
+april-5-2020,collingswood,7
+april-5-2020,gloucester township,71
+april-5-2020,haddonfield,14
+april-5-2020,haddon heights,3
+april-5-2020,haddon township,13
+april-5-2020,hi-nella,1
+april-5-2020,lawnside,4
+april-5-2020,lindenwold,17
+april-5-2020,magnolia,4
+april-5-2020,merchantville,2
+april-5-2020,oaklyn,3
+april-5-2020,pennsauken township,45
+april-5-2020,pine hill,13
+april-5-2020,runnemede,3
+april-5-2020,somerdale,6
+april-5-2020,stratford,3
+april-5-2020,voorhees township,31
+april-5-2020,waterford township,7
+april-5-2020,winslow township,62
+april-5-2020,woodlynne,4
+april-5-2020,avalon,6
+april-5-2020,cape may,3
+april-5-2020,dennis township,4
+april-5-2020,lower township,24
+april-5-2020,middle township,10
+april-5-2020,north wildwood,3
+april-5-2020,ocean township,8
+april-5-2020,sea isle city,1
+april-5-2020,upper township,5
+april-5-2020,west cape may,1
+april-5-2020,west wildwood,1
+april-5-2020,wildwood,4
+april-5-2020,wildwood crest,4
+april-5-2020,bridgeton,8
+april-5-2020,commercial township,2
+april-5-2020,deerfield township,1
+april-5-2020,fairfield township,37
+april-5-2020,hopewell,2
+april-5-2020,lawrence township,1
+april-5-2020,maurice river township,1
+april-5-2020,millville,8
+april-5-2020,vineland,26
+april-5-2020,upper deerfield township,1
+april-5-2020,belleville,263
+april-5-2020,bloomfield,242
+april-5-2020,caldwell,38
+april-5-2020,cedar grove,67
+april-5-2020,east orange,412
+april-5-2020,essex fells,13
+april-5-2020,glen ridge,19
+april-5-2020,irvington,330
+april-5-2020,livingston,178
+april-5-2020,maplewood,72
+april-5-2020,millburn,63
+april-5-2020,montclair,164
+april-5-2020,newark,1
+april-5-2020,north caldwell,19
+april-5-2020,nutley,172
+april-5-2020,city of orange,209
+april-5-2020,roseland,31
+april-5-2020,south orange village,38
+april-5-2020,verona,46
+april-5-2020,west caldwell,49
+april-5-2020,west orange,278
+april-5-2020,clayton,2
+april-5-2020,deptford township,31
+april-5-2020,east greenwich township,10
+april-5-2020,franklin,4
+april-5-2020,greenwich township,19
+april-5-2020,glassboro,15
+april-5-2020,harrison,62
+april-5-2020,logan township,5
+april-5-2020,mantua township,11
+april-5-2020,monroe township,132
+april-5-2020,national park,1
+april-5-2020,paulsboro,5
+april-5-2020,pitman,3
+april-5-2020,swedesboro,1
+april-5-2020,wenonah,1
+april-5-2020,west deptford township,12
+april-5-2020,westville,3
+april-5-2020,woodbury,8
+april-5-2020,woodbury heights,3
+april-5-2020,woolwich township,15
+april-5-2020,bayonne,220
+april-5-2020,east newark,6
+april-5-2020,guttenberg,40
+april-5-2020,hoboken,184
+april-5-2020,kearny,144
+april-5-2020,north bergen,553
+april-5-2020,secaucus,148
+april-5-2020,union township,3
+april-5-2020,west new york,77
+april-5-2020,alexandria township,2
+april-5-2020,bethlehem township,4
+april-5-2020,bloomsbury,1
+april-5-2020,califon,2
+april-5-2020,clinton township,1
+april-5-2020,delaware township,4
+april-5-2020,east amwell township,4
+april-5-2020,flemington,6
+april-5-2020,frenchtown,2
+april-5-2020,glen gardner,1
+april-5-2020,hampton,7
+april-5-2020,high bridge,5
+april-5-2020,holland township,5
+april-5-2020,kingwood township,2
+april-5-2020,lambertville,9
+april-5-2020,lebanon,2
+april-5-2020,lebanon township,4
+april-5-2020,raritan township,29
+april-5-2020,readington township,14
+april-5-2020,tewksbury township,4
+april-5-2020,west amwell township,3
+april-5-2020,carteret,83
+april-5-2020,cranbury,7
+april-5-2020,dunellen,14
+april-5-2020,east brunswick,117
+april-5-2020,edison,150
+april-5-2020,helmetta,7
+april-5-2020,highland park,30
+april-5-2020,jamesburg,21
+april-5-2020,metuchen,16
+april-5-2020,middlesex,33
+april-5-2020,milltown,7
+april-5-2020,new brunswick,103
+april-5-2020,north brunswick,98
+april-5-2020,old bridge township,173
+april-5-2020,perth amboy,183
+april-5-2020,piscataway,100
+april-5-2020,plainsboro township,42
+april-5-2020,sayreville,101
+april-5-2020,south amboy,28
+april-5-2020,south brunswick,47
+april-5-2020,south plainfield,69
+april-5-2020,south river,29
+april-5-2020,spotswood,12
+april-5-2020,woodbridge township,305
+april-5-2020,aberdeen township,47
+april-5-2020,allentown,1
+april-5-2020,asbury park,29
+april-5-2020,atlantic highlands,8
+april-5-2020,avon-by-the-sea,3
+april-5-2020,belmar,4
+april-5-2020,bradley beach,8
+april-5-2020,brielle,10
+april-5-2020,colts neck township,25
+april-5-2020,deal,9
+april-5-2020,eatontown,49
+april-5-2020,englishtown,9
+april-5-2020,fair haven,14
+april-5-2020,farmingdale,8
+april-5-2020,freehold township,122
+april-5-2020,hazlet,68
+april-5-2020,highlands,6
+april-5-2020,holmdel township,59
+april-5-2020,howell township,143
+april-5-2020,keansburg,37
+april-5-2020,keyport,12
+april-5-2020,lake como,4
+april-5-2020,little silver,17
+april-5-2020,loch arbour,1
+april-5-2020,long branch,73
+april-5-2020,manalapan township,152
+april-5-2020,manasquan,15
+april-5-2020,marlboro township,126
+april-5-2020,matawan,35
+april-5-2020,middletown township,156
+april-5-2020,millstone,2
+april-5-2020,monmouth beach,7
+april-5-2020,neptune township,80
+april-5-2020,oceanport,19
+april-5-2020,red bank,34
+april-5-2020,rumson,19
+april-5-2020,sea bright,3
+april-5-2020,sea girt,7
+april-5-2020,shrewsbury,16
+april-5-2020,shrewsbury township,3
+april-5-2020,spring lake,5
+april-5-2020,spring lake heights,8
+april-5-2020,tinton falls,31
+april-5-2020,union beach,2
+april-5-2020,upper freehold township,15
+april-5-2020,wall township,66
+april-5-2020,west long branch,20
+april-5-2020,boonton,18
+april-5-2020,boonton township,13
+april-5-2020,butler,21
+april-5-2020,chatham township,20
+april-5-2020,chester township,6
+april-5-2020,denville township,33
+april-5-2020,dover,99
+april-5-2020,east hanover township,50
+april-5-2020,florham park,45
+april-5-2020,hanover township,40
+april-5-2020,harding township,13
+april-5-2020,jefferson township,34
+april-5-2020,kinnelon,18
+april-5-2020,lincoln park,40
+april-5-2020,long hill township,10
+april-5-2020,madison,32
+april-5-2020,mendham township,19
+april-5-2020,mine hill township,7
+april-5-2020,montville,61
+april-5-2020,morris plains,16
+april-5-2020,morris township,66
+april-5-2020,morristown,94
+april-5-2020,mount arlington,5
+april-5-2020,mount olive township,44
+april-5-2020,mountain lakes,8
+april-5-2020,netcong,7
+april-5-2020,parsippany-troy hills,127
+april-5-2020,pequannock township,30
+april-5-2020,randolph,65
+april-5-2020,riverdale,9
+april-5-2020,rockaway,18
+april-5-2020,rockaway township,53
+april-5-2020,roxbury township,45
+april-5-2020,victory gardens,7
+april-5-2020,wharton,33
+april-5-2020,barnegat township,56
+april-5-2020,barnegat light,2
+april-5-2020,bay head,2
+april-5-2020,beach haven,4
+april-5-2020,beachwood,23
+april-5-2020,berkeley township,135
+april-5-2020,brick township,218
+april-5-2020,island heights,2
+april-5-2020,jackson township,178
+april-5-2020,lacey township,56
+april-5-2020,lakehurst,4
+april-5-2020,lakewood township,690
+april-5-2020,lavallette,5
+april-5-2020,little egg harbor township,20
+april-5-2020,long beach township,6
+april-5-2020,manchester township,107
+april-5-2020,plumsted township,9
+april-5-2020,point pleasant beach,8
+april-5-2020,point pleasant,59
+april-5-2020,seaside heights,10
+april-5-2020,seaside park,3
+april-5-2020,ship bottom,5
+april-5-2020,south toms river,22
+april-5-2020,surf city,2
+april-5-2020,stafford township,49
+april-5-2020,toms river,336
+april-5-2020,tuckerton,2
+april-5-2020,bloomingdale,20
+april-5-2020,clifton,301
+april-5-2020,haledon,35
+april-5-2020,hawthorne,58
+april-5-2020,little falls,24
+april-5-2020,north haledon,18
+april-5-2020,passaic,244
+april-5-2020,paterson,238
+april-5-2020,pompton lakes,34
+april-5-2020,prospect park,13
+april-5-2020,ringwood,23
+april-5-2020,totowa,18
+april-5-2020,wanaque,48
+april-5-2020,wayne,194
+april-5-2020,west milford,50
+april-5-2020,woodland park,36
+april-5-2020,alloway township,3
+april-5-2020,carneys point township,1
+april-5-2020,elmer,1
+april-5-2020,quinton township,1
+april-5-2020,oldmans township,1
+april-5-2020,penns grove,6
+april-5-2020,pennsville township,5
+april-5-2020,pilesgrove township,1
+april-5-2020,salem,2
+april-5-2020,woodstown,3
+april-5-2020,bedminster,16
+april-5-2020,bernards township,57
+april-5-2020,bernardsville,22
+april-5-2020,bound brook,31
+april-5-2020,branchburg,32
+april-5-2020,bridgewater township,86
+april-5-2020,far hills,2
+april-5-2020,green brook township,31
+april-5-2020,hillsborough township,70
+april-5-2020,manville,31
+april-5-2020,montgomery,27
+april-5-2020,north plainfield,68
+april-5-2020,peapack and gladstone,14
+april-5-2020,raritan,15
+april-5-2020,rocky hill,2
+april-5-2020,somerville,27
+april-5-2020,south bound brook,13
+april-5-2020,warren township,30
+april-5-2020,watchung,26
+april-5-2020,andover,1
+april-5-2020,andover township,16
+april-5-2020,branchville,3
+april-5-2020,byram township,12
+april-5-2020,frankford township,8
+april-5-2020,fredon township,4
+april-5-2020,green township,3
+april-5-2020,hamburg,5
+april-5-2020,hardyston township,12
+april-5-2020,hopatcong,25
+april-5-2020,lafayette township,1
+april-5-2020,montague township,2
+april-5-2020,newton,29
+april-5-2020,ogdensburg,3
+april-5-2020,sandyston township,2
+april-5-2020,sparta township,37
+april-5-2020,stanhope,7
+april-5-2020,sussex,4
+april-5-2020,vernon township,25
+april-5-2020,wantage township,16
+april-5-2020,berkeley heights,41
+april-5-2020,clark,33
+april-5-2020,cranford,72
+april-5-2020,elizabeth,526
+april-5-2020,kenilworth,18
+april-5-2020,linden,168
+april-5-2020,mountainside,9
+april-5-2020,new providence,21
+april-5-2020,plainfield,108
+april-5-2020,rahway,70
+april-5-2020,roselle,38
+april-5-2020,scotch plains,34
+april-5-2020,summit,40
+april-5-2020,westfield,74
+april-5-2020,allamuchy township,9
+april-5-2020,alpha,2
+april-5-2020,belvidere,4
+april-5-2020,blairstown,3
+april-5-2020,frelinghuysen township,2
+april-5-2020,hackettstown,14
+april-5-2020,hardwick township,3
+april-5-2020,harmony township,6
+april-5-2020,hope township,7
+april-5-2020,independence township,5
+april-5-2020,knowlton township,5
+april-5-2020,liberty township,3
+april-5-2020,lopatcong township,20
+april-5-2020,phillipsburg,35
+april-5-2020,pohatcong township,6
+april-5-2020,washington,9
+april-5-2020,white township,16
+april-6-2020,allendale,21
+april-6-2020,alpine,11
+april-6-2020,bergenfield,252
+april-6-2020,bogota,65
+april-6-2020,carlstadt,28
+april-6-2020,cliffside park,125
+april-6-2020,closter,25
+april-6-2020,cresskill,33
+april-6-2020,demarest,19
+april-6-2020,dumont,91
+april-6-2020,east rutherford,39
+april-6-2020,edgewater,52
+april-6-2020,elmwood park,121
+april-6-2020,emerson,29
+april-6-2020,englewood,229
+april-6-2020,englewood cliffs,15
+april-6-2020,fair lawn,191
+april-6-2020,fairview,72
+april-6-2020,fort lee,132
+april-6-2020,franklin lakes,55
+april-6-2020,garfield,149
+april-6-2020,glen rock,47
+april-6-2020,hackensack,304
+april-6-2020,harrington park,6
+april-6-2020,hasbrouck heights,61
+april-6-2020,haworth,10
+april-6-2020,hillsdale,41
+april-6-2020,ho-ho-kus,19
+april-6-2020,leonia,39
+april-6-2020,little ferry,55
+april-6-2020,lodi,152
+april-6-2020,lyndhurst,87
+april-6-2020,mahwah,79
+april-6-2020,maywood,40
+april-6-2020,midland park,31
+april-6-2020,montvale,34
+april-6-2020,moonachie,23
+april-6-2020,new milford,126
+april-6-2020,north arlington,53
+april-6-2020,northvale,16
+april-6-2020,norwood,25
+april-6-2020,oakland,58
+april-6-2020,old tappan,34
+april-6-2020,oradell,48
+april-6-2020,palisades park,63
+april-6-2020,paramus,148
+april-6-2020,park ridge,36
+april-6-2020,ramsey,50
+april-6-2020,ridgefield,49
+april-6-2020,ridgefield park,73
+april-6-2020,ridgewood,104
+april-6-2020,river edge,59
+april-6-2020,river vale,24
+april-6-2020,rochelle park,32
+april-6-2020,rockleigh,2
+april-6-2020,rutherford,49
+april-6-2020,saddle brook,79
+april-6-2020,saddle river,17
+april-6-2020,south hackensack,22
+april-6-2020,teaneck,421
+april-6-2020,tenafly,50
+april-6-2020,teterboro,1
+april-6-2020,upper saddle river,32
+april-6-2020,waldwick,45
+april-6-2020,wallington,35
+april-6-2020,washington township,5
+april-6-2020,westwood,46
+april-6-2020,wood-ridge,27
+april-6-2020,woodcliff lake,41
+april-6-2020,wyckoff,74
+april-6-2020,beverly,5
+april-6-2020,bordentown,6
+april-6-2020,bordentown township,20
+april-6-2020,burlington,9
+april-6-2020,burlington township,41
+april-6-2020,chesterfield township,4
+april-6-2020,cinnaminson township,9
+april-6-2020,delanco township,7
+april-6-2020,delran township,21
+april-6-2020,eastampton township,9
+april-6-2020,edgewater park,7
+april-6-2020,evesham township,46
+april-6-2020,florence township,8
+april-6-2020,hainesport township,8
+april-6-2020,lumberton township,13
+april-6-2020,mansfield township,11
+april-6-2020,maple shade township,16
+april-6-2020,medford,17
+april-6-2020,medford lakes,2
+april-6-2020,moorestown,46
+april-6-2020,mount holly,16
+april-6-2020,mount laurel,47
+april-6-2020,new hanover township,1
+april-6-2020,north hanover township,2
+april-6-2020,palmyra,5
+april-6-2020,pemberton,1
+april-6-2020,pemberton township,35
+april-6-2020,riverside township,9
+april-6-2020,riverton,10
+april-6-2020,shamong township,5
+april-6-2020,southampton township,4
+april-6-2020,springfield township,2
+april-6-2020,tabernacle township,6
+april-6-2020,westampton township,15
+april-6-2020,willingboro township,91
+april-6-2020,wrightstown,4
+april-6-2020,audubon,7
+april-6-2020,barrington,7
+april-6-2020,bellmawr,7
+april-6-2020,berlin,4
+april-6-2020,berlin township,1
+april-6-2020,brooklawn,3
+april-6-2020,camden,64
+april-6-2020,cherry hill,113
+april-6-2020,chesilhurst,2
+april-6-2020,clementon,1
+april-6-2020,collingswood,8
+april-6-2020,gloucester township,72
+april-6-2020,haddonfield,15
+april-6-2020,haddon heights,5
+april-6-2020,haddon township,14
+april-6-2020,hi-nella,1
+april-6-2020,lawnside,5
+april-6-2020,lindenwold,20
+april-6-2020,magnolia,5
+april-6-2020,merchantville,4
+april-6-2020,oaklyn,3
+april-6-2020,pennsauken township,53
+april-6-2020,pine hill,13
+april-6-2020,runnemede,6
+april-6-2020,somerdale,7
+april-6-2020,stratford,3
+april-6-2020,voorhees township,35
+april-6-2020,waterford township,8
+april-6-2020,winslow township,64
+april-6-2020,woodlynne,5
+april-6-2020,avalon,6
+april-6-2020,cape may,3
+april-6-2020,dennis township,4
+april-6-2020,lower township,24
+april-6-2020,middle township,10
+april-6-2020,north wildwood,3
+april-6-2020,ocean township,9
+april-6-2020,sea isle city,1
+april-6-2020,upper township,5
+april-6-2020,west cape may,1
+april-6-2020,west wildwood,1
+april-6-2020,wildwood,4
+april-6-2020,wildwood crest,4
+april-6-2020,bridgeton,10
+april-6-2020,commercial township,3
+april-6-2020,deerfield township,1
+april-6-2020,fairfield township,38
+april-6-2020,hopewell,2
+april-6-2020,lawrence township,1
+april-6-2020,maurice river township,1
+april-6-2020,millville,8
+april-6-2020,vineland,31
+april-6-2020,upper deerfield township,1
+april-6-2020,belleville,294
+april-6-2020,bloomfield,265
+april-6-2020,caldwell,38
+april-6-2020,cedar grove,75
+april-6-2020,east orange,448
+april-6-2020,essex fells,14
+april-6-2020,glen ridge,22
+april-6-2020,irvington,368
+april-6-2020,livingston,191
+april-6-2020,maplewood,86
+april-6-2020,millburn,70
+april-6-2020,montclair,173
+april-6-2020,newark,1
+april-6-2020,north caldwell,23
+april-6-2020,nutley,191
+april-6-2020,city of orange,223
+april-6-2020,roseland,36
+april-6-2020,south orange village,40
+april-6-2020,verona,46
+april-6-2020,west caldwell,58
+april-6-2020,west orange,309
+april-6-2020,clayton,2
+april-6-2020,deptford township,31
+april-6-2020,east greenwich township,10
+april-6-2020,franklin,4
+april-6-2020,greenwich township,21
+april-6-2020,glassboro,15
+april-6-2020,harrison,76
+april-6-2020,logan township,5
+april-6-2020,mantua township,11
+april-6-2020,monroe township,134
+april-6-2020,national park,1
+april-6-2020,paulsboro,5
+april-6-2020,pitman,3
+april-6-2020,swedesboro,1
+april-6-2020,wenonah,1
+april-6-2020,west deptford township,12
+april-6-2020,westville,3
+april-6-2020,woodbury,8
+april-6-2020,woodbury heights,3
+april-6-2020,woolwich township,15
+april-6-2020,bayonne,281
+april-6-2020,east newark,12
+april-6-2020,guttenberg,40
+april-6-2020,hoboken,199
+april-6-2020,kearny,144
+april-6-2020,north bergen,631
+april-6-2020,secaucus,164
+april-6-2020,union township,15
+april-6-2020,west new york,77
+april-6-2020,alexandria township,2
+april-6-2020,bethlehem township,8
+april-6-2020,bloomsbury,1
+april-6-2020,califon,2
+april-6-2020,clinton township,2
+april-6-2020,delaware township,4
+april-6-2020,east amwell township,4
+april-6-2020,flemington,8
+april-6-2020,frenchtown,2
+april-6-2020,glen gardner,1
+april-6-2020,hampton,7
+april-6-2020,high bridge,6
+april-6-2020,holland township,9
+april-6-2020,kingwood township,2
+april-6-2020,lambertville,9
+april-6-2020,lebanon,2
+april-6-2020,lebanon township,8
+april-6-2020,raritan township,39
+april-6-2020,readington township,23
+april-6-2020,tewksbury township,7
+april-6-2020,west amwell township,4
+april-6-2020,carteret,92
+april-6-2020,cranbury,7
+april-6-2020,dunellen,15
+april-6-2020,east brunswick,118
+april-6-2020,edison,160
+april-6-2020,helmetta,7
+april-6-2020,highland park,31
+april-6-2020,jamesburg,21
+april-6-2020,metuchen,16
+april-6-2020,middlesex,33
+april-6-2020,milltown,7
+april-6-2020,new brunswick,105
+april-6-2020,north brunswick,99
+april-6-2020,old bridge township,183
+april-6-2020,perth amboy,190
+april-6-2020,piscataway,104
+april-6-2020,plainsboro township,43
+april-6-2020,sayreville,104
+april-6-2020,south amboy,28
+april-6-2020,south brunswick,50
+april-6-2020,south plainfield,70
+april-6-2020,south river,29
+april-6-2020,spotswood,13
+april-6-2020,woodbridge township,355
+april-6-2020,aberdeen township,65
+april-6-2020,allenhurst,1
+april-6-2020,allentown,1
+april-6-2020,asbury park,41
+april-6-2020,atlantic highlands,10
+april-6-2020,avon-by-the-sea,5
+april-6-2020,belmar,5
+april-6-2020,bradley beach,10
+april-6-2020,brielle,12
+april-6-2020,colts neck township,31
+april-6-2020,deal,19
+april-6-2020,eatontown,67
+april-6-2020,englishtown,9
+april-6-2020,fair haven,14
+april-6-2020,farmingdale,7
+april-6-2020,freehold township,166
+april-6-2020,hazlet,91
+april-6-2020,highlands,8
+april-6-2020,holmdel township,78
+april-6-2020,howell township,205
+april-6-2020,keansburg,35
+april-6-2020,keyport,21
+april-6-2020,lake como,4
+april-6-2020,little silver,19
+april-6-2020,loch arbour,1
+april-6-2020,long branch,104
+april-6-2020,manalapan township,210
+april-6-2020,manasquan,18
+april-6-2020,marlboro township,193
+april-6-2020,matawan,47
+april-6-2020,middletown township,217
+april-6-2020,millstone,2
+april-6-2020,monmouth beach,10
+april-6-2020,neptune township,116
+april-6-2020,oceanport,26
+april-6-2020,red bank,42
+april-6-2020,roosevelt,2
+april-6-2020,rumson,21
+april-6-2020,sea bright,5
+april-6-2020,sea girt,8
+april-6-2020,shrewsbury,19
+april-6-2020,shrewsbury township,3
+april-6-2020,spring lake,6
+april-6-2020,spring lake heights,9
+april-6-2020,tinton falls,39
+april-6-2020,union beach,14
+april-6-2020,upper freehold township,20
+april-6-2020,wall township,84
+april-6-2020,west long branch,24
+april-6-2020,boonton,18
+april-6-2020,boonton township,13
+april-6-2020,butler,21
+april-6-2020,chatham township,20
+april-6-2020,chester township,6
+april-6-2020,denville township,33
+april-6-2020,dover,99
+april-6-2020,east hanover township,50
+april-6-2020,florham park,45
+april-6-2020,hanover township,40
+april-6-2020,harding township,13
+april-6-2020,jefferson township,34
+april-6-2020,kinnelon,18
+april-6-2020,lincoln park,40
+april-6-2020,long hill township,10
+april-6-2020,madison,32
+april-6-2020,mendham township,19
+april-6-2020,mine hill township,7
+april-6-2020,montville,61
+april-6-2020,morris plains,16
+april-6-2020,morris township,66
+april-6-2020,morristown,94
+april-6-2020,mount arlington,5
+april-6-2020,mount olive township,44
+april-6-2020,mountain lakes,8
+april-6-2020,netcong,7
+april-6-2020,parsippany-troy hills,127
+april-6-2020,pequannock township,30
+april-6-2020,randolph,65
+april-6-2020,riverdale,9
+april-6-2020,rockaway,18
+april-6-2020,rockaway township,53
+april-6-2020,roxbury township,45
+april-6-2020,victory gardens,7
+april-6-2020,wharton,33
+april-6-2020,barnegat township,58
+april-6-2020,barnegat light,2
+april-6-2020,bay head,2
+april-6-2020,beach haven,4
+april-6-2020,beachwood,29
+april-6-2020,berkeley township,141
+april-6-2020,brick township,251
+april-6-2020,island heights,2
+april-6-2020,jackson township,198
+april-6-2020,lacey township,58
+april-6-2020,lakehurst,4
+april-6-2020,lakewood township,756
+april-6-2020,lavallette,5
+april-6-2020,little egg harbor township,20
+april-6-2020,long beach township,6
+april-6-2020,manchester township,115
+april-6-2020,ocean gate,1
+april-6-2020,plumsted township,12
+april-6-2020,point pleasant beach,9
+april-6-2020,point pleasant,60
+april-6-2020,seaside heights,11
+april-6-2020,seaside park,3
+april-6-2020,ship bottom,5
+april-6-2020,south toms river,25
+april-6-2020,surf city,2
+april-6-2020,stafford township,61
+april-6-2020,toms river,364
+april-6-2020,tuckerton,2
+april-6-2020,bloomingdale,20
+april-6-2020,clifton,301
+april-6-2020,haledon,35
+april-6-2020,hawthorne,58
+april-6-2020,little falls,24
+april-6-2020,north haledon,18
+april-6-2020,passaic,244
+april-6-2020,paterson,238
+april-6-2020,pompton lakes,34
+april-6-2020,prospect park,13
+april-6-2020,ringwood,23
+april-6-2020,totowa,18
+april-6-2020,wanaque,48
+april-6-2020,wayne,194
+april-6-2020,west milford,50
+april-6-2020,woodland park,36
+april-6-2020,alloway township,3
+april-6-2020,carneys point township,1
+april-6-2020,elmer,1
+april-6-2020,quinton township,1
+april-6-2020,oldmans township,1
+april-6-2020,penns grove,6
+april-6-2020,pennsville township,5
+april-6-2020,pilesgrove township,1
+april-6-2020,salem,2
+april-6-2020,woodstown,3
+april-6-2020,bedminster,16
+april-6-2020,bernards township,57
+april-6-2020,bernardsville,22
+april-6-2020,bound brook,31
+april-6-2020,branchburg,32
+april-6-2020,bridgewater township,86
+april-6-2020,far hills,2
+april-6-2020,green brook township,31
+april-6-2020,hillsborough township,70
+april-6-2020,manville,31
+april-6-2020,montgomery,27
+april-6-2020,north plainfield,68
+april-6-2020,peapack and gladstone,14
+april-6-2020,raritan,15
+april-6-2020,rocky hill,2
+april-6-2020,somerville,27
+april-6-2020,south bound brook,13
+april-6-2020,warren township,30
+april-6-2020,watchung,26
+april-6-2020,andover,1
+april-6-2020,andover township,16
+april-6-2020,branchville,3
+april-6-2020,byram township,12
+april-6-2020,frankford township,8
+april-6-2020,fredon township,4
+april-6-2020,green township,3
+april-6-2020,hamburg,5
+april-6-2020,hardyston township,12
+april-6-2020,hopatcong,25
+april-6-2020,lafayette township,1
+april-6-2020,montague township,2
+april-6-2020,newton,29
+april-6-2020,ogdensburg,3
+april-6-2020,sandyston township,2
+april-6-2020,sparta township,37
+april-6-2020,stanhope,7
+april-6-2020,sussex,4
+april-6-2020,vernon township,25
+april-6-2020,wantage township,16
+april-6-2020,berkeley heights,41
+april-6-2020,clark,33
+april-6-2020,cranford,72
+april-6-2020,elizabeth,526
+april-6-2020,kenilworth,18
+april-6-2020,linden,168
+april-6-2020,mountainside,9
+april-6-2020,new providence,21
+april-6-2020,plainfield,108
+april-6-2020,rahway,70
+april-6-2020,roselle,38
+april-6-2020,scotch plains,34
+april-6-2020,summit,40
+april-6-2020,westfield,74
+april-6-2020,allamuchy township,9
+april-6-2020,alpha,2
+april-6-2020,belvidere,4
+april-6-2020,blairstown,3
+april-6-2020,frelinghuysen township,2
+april-6-2020,hackettstown,15
+april-6-2020,hardwick township,3
+april-6-2020,harmony township,6
+april-6-2020,hope township,7
+april-6-2020,independence township,6
+april-6-2020,knowlton township,6
+april-6-2020,liberty township,4
+april-6-2020,lopatcong township,23
+april-6-2020,phillipsburg,39
+april-6-2020,pohatcong township,7
+april-6-2020,washington,9
+april-6-2020,white township,19
+april-7-2020,allendale,27
+april-7-2020,alpine,15
+april-7-2020,bergenfield,357
+april-7-2020,bogota,85
+april-7-2020,carlstadt,41
+april-7-2020,cliffside park,192
+april-7-2020,closter,35
+april-7-2020,cresskill,43
+april-7-2020,demarest,22
+april-7-2020,dumont,129
+april-7-2020,east rutherford,65
+april-7-2020,edgewater,67
+april-7-2020,elmwood park,201
+april-7-2020,emerson,52
+april-7-2020,englewood,350
+april-7-2020,englewood cliffs,18
+april-7-2020,fair lawn,281
+april-7-2020,fairview,120
+april-7-2020,fort lee,188
+april-7-2020,franklin lakes,73
+april-7-2020,garfield,245
+april-7-2020,glen rock,55
+april-7-2020,hackensack,509
+april-7-2020,harrington park,12
+april-7-2020,hasbrouck heights,90
+april-7-2020,haworth,15
+april-7-2020,hillsdale,64
+april-7-2020,ho-ho-kus,23
+april-7-2020,leonia,52
+april-7-2020,little ferry,87
+april-7-2020,lodi,244
+april-7-2020,lyndhurst,145
+april-7-2020,mahwah,127
+april-7-2020,maywood,64
+april-7-2020,midland park,44
+april-7-2020,montvale,47
+april-7-2020,moonachie,36
+april-7-2020,new milford,179
+april-7-2020,north arlington,85
+april-7-2020,northvale,31
+april-7-2020,norwood,34
+april-7-2020,oakland,94
+april-7-2020,old tappan,42
+april-7-2020,oradell,86
+april-7-2020,palisades park,98
+april-7-2020,paramus,271
+april-7-2020,park ridge,49
+april-7-2020,ramsey,71
+april-7-2020,ridgefield,71
+april-7-2020,ridgefield park,109
+april-7-2020,ridgewood,151
+april-7-2020,river edge,74
+april-7-2020,river vale,38
+april-7-2020,rochelle park,49
+april-7-2020,rockleigh,4
+april-7-2020,rutherford,82
+april-7-2020,saddle brook,116
+april-7-2020,saddle river,23
+april-7-2020,south hackensack,29
+april-7-2020,teaneck,540
+april-7-2020,tenafly,74
+april-7-2020,teterboro,2
+april-7-2020,upper saddle river,38
+april-7-2020,waldwick,61
+april-7-2020,wallington,55
+april-7-2020,washington township,7
+april-7-2020,westwood,87
+april-7-2020,woodcliff lake,35
+april-7-2020,wood-ridge,55
+april-7-2020,wyckoff,171
+april-7-2020,beverly,7
+april-7-2020,bordentown,6
+april-7-2020,bordentown township,22
+april-7-2020,burlington,14
+april-7-2020,burlington township,50
+april-7-2020,chesterfield township,5
+april-7-2020,cinnaminson township,12
+april-7-2020,delanco township,8
+april-7-2020,delran township,25
+april-7-2020,eastampton township,13
+april-7-2020,edgewater park,8
+april-7-2020,evesham township,56
+april-7-2020,florence township,9
+april-7-2020,hainesport township,9
+april-7-2020,lumberton township,16
+april-7-2020,mansfield township,16
+april-7-2020,maple shade township,22
+april-7-2020,medford,20
+april-7-2020,medford lakes,2
+april-7-2020,moorestown,48
+april-7-2020,mount holly,18
+april-7-2020,mount laurel,57
+april-7-2020,new hanover township,1
+april-7-2020,north hanover township,2
+april-7-2020,palmyra,7
+april-7-2020,pemberton,1
+april-7-2020,pemberton township,38
+april-7-2020,riverside township,9
+april-7-2020,riverton,11
+april-7-2020,shamong township,6
+april-7-2020,southampton township,5
+april-7-2020,springfield township,2
+april-7-2020,tabernacle township,8
+april-7-2020,westampton township,20
+april-7-2020,willingboro township,110
+april-7-2020,wrightstown,4
+april-7-2020,audubon,8
+april-7-2020,barrington,8
+april-7-2020,bellmawr,11
+april-7-2020,berlin,6
+april-7-2020,berlin township,1
+april-7-2020,brooklawn,3
+april-7-2020,camden,79
+april-7-2020,cherry hill,133
+april-7-2020,chesilhurst,2
+april-7-2020,clementon,2
+april-7-2020,collingswood,12
+april-7-2020,gibbsboro,1
+april-7-2020,gloucester township,86
+april-7-2020,haddonfield,15
+april-7-2020,haddon heights,5
+april-7-2020,haddon township,18
+april-7-2020,hi-nella,1
+april-7-2020,laurel springs,1
+april-7-2020,lawnside,5
+april-7-2020,lindenwold,26
+april-7-2020,magnolia,5
+april-7-2020,merchantville,6
+april-7-2020,mount ephraim,1
+april-7-2020,oaklyn,3
+april-7-2020,pennsauken township,66
+april-7-2020,pine hill,14
+april-7-2020,runnemede,7
+april-7-2020,somerdale,10
+april-7-2020,stratford,3
+april-7-2020,voorhees township,46
+april-7-2020,waterford township,9
+april-7-2020,winslow township,75
+april-7-2020,woodlynne,6
+april-7-2020,avalon,6
+april-7-2020,cape may,3
+april-7-2020,dennis township,5
+april-7-2020,lower township,36
+april-7-2020,middle township,18
+april-7-2020,north wildwood,3
+april-7-2020,ocean township,9
+april-7-2020,sea isle city,1
+april-7-2020,upper township,8
+april-7-2020,west cape may,1
+april-7-2020,west wildwood,1
+april-7-2020,wildwood,6
+april-7-2020,wildwood crest,5
+april-7-2020,bridgeton,11
+april-7-2020,commercial township,3
+april-7-2020,deerfield township,1
+april-7-2020,fairfield township,40
+april-7-2020,hopewell,2
+april-7-2020,lawrence township,37
+april-7-2020,maurice river township,1
+april-7-2020,millville,9
+april-7-2020,vineland,31
+april-7-2020,upper deerfield township,1
+april-7-2020,belleville,330
+april-7-2020,bloomfield,304
+april-7-2020,caldwell,42
+april-7-2020,cedar grove,86
+april-7-2020,east orange,504
+april-7-2020,essex fells,13
+april-7-2020,glen ridge,23
+april-7-2020,irvington,409
+april-7-2020,livingston,208
+april-7-2020,maplewood,99
+april-7-2020,millburn,70
+april-7-2020,montclair,189
+april-7-2020,newark,1
+april-7-2020,north caldwell,26
+april-7-2020,nutley,207
+april-7-2020,city of orange,249
+april-7-2020,roseland,35
+april-7-2020,south orange village,43
+april-7-2020,verona,47
+april-7-2020,west caldwell,73
+april-7-2020,west orange,343
+april-7-2020,clayton,4
+april-7-2020,deptford township,47
+april-7-2020,east greenwich township,12
+april-7-2020,elk township,1
+april-7-2020,franklin,4
+april-7-2020,glassboro,18
+april-7-2020,greenwich township,22
+april-7-2020,harrison,91
+april-7-2020,logan township,6
+april-7-2020,mantua township,14
+april-7-2020,monroe township,138
+april-7-2020,national park,2
+april-7-2020,paulsboro,5
+april-7-2020,pitman,4
+april-7-2020,south harrison township,1
+april-7-2020,swedesboro,2
+april-7-2020,wenonah,1
+april-7-2020,west deptford township,15
+april-7-2020,westville,4
+april-7-2020,woodbury,8
+april-7-2020,woodbury heights,4
+april-7-2020,woolwich township,17
+april-7-2020,bayonne,309
+april-7-2020,east newark,12
+april-7-2020,guttenberg,66
+april-7-2020,hoboken,225
+april-7-2020,jersey city,1
+april-7-2020,kearny,259
+april-7-2020,north bergen,717
+april-7-2020,secaucus,171
+april-7-2020,union township,19
+april-7-2020,weehawken,78
+april-7-2020,west new york,77
+april-7-2020,alexandria township,3
+april-7-2020,bethlehem township,9
+april-7-2020,bloomsbury,1
+april-7-2020,califon,2
+april-7-2020,clinton township,3
+april-7-2020,delaware township,6
+april-7-2020,east amwell township,5
+april-7-2020,flemington,9
+april-7-2020,frenchtown,3
+april-7-2020,glen gardner,2
+april-7-2020,hampton,7
+april-7-2020,high bridge,7
+april-7-2020,holland township,10
+april-7-2020,kingwood township,2
+april-7-2020,lambertville,9
+april-7-2020,lebanon,3
+april-7-2020,lebanon township,8
+april-7-2020,milford,1
+april-7-2020,raritan township,45
+april-7-2020,readington township,26
+april-7-2020,tewksbury township,9
+april-7-2020,west amwell township,4
+april-7-2020,east windsor township,140
+april-7-2020,ewing township,72
+april-7-2020,hamilton township,165
+april-7-2020,hightstown,26
+april-7-2020,hopewell township,33
+april-7-2020,pennington,1
+april-7-2020,princeton,41
+april-7-2020,robbinsville township,24
+april-7-2020,trenton,148
+april-7-2020,west windsor township,53
+april-7-2020,carteret,104
+april-7-2020,cranbury,8
+april-7-2020,dunellen,17
+april-7-2020,east brunswick,130
+april-7-2020,edison,169
+april-7-2020,helmetta,8
+april-7-2020,highland park,33
+april-7-2020,jamesburg,21
+april-7-2020,metuchen,17
+april-7-2020,middlesex,38
+april-7-2020,milltown,8
+april-7-2020,new brunswick,114
+april-7-2020,north brunswick,104
+april-7-2020,old bridge township,202
+april-7-2020,perth amboy,217
+april-7-2020,piscataway,123
+april-7-2020,plainsboro township,45
+april-7-2020,sayreville,114
+april-7-2020,south amboy,31
+april-7-2020,south brunswick,56
+april-7-2020,south plainfield,76
+april-7-2020,south river,31
+april-7-2020,spotswood,14
+april-7-2020,woodbridge township,432
+april-7-2020,aberdeen township,68
+april-7-2020,allenhurst,1
+april-7-2020,allentown,1
+april-7-2020,asbury park,45
+april-7-2020,atlantic highlands,10
+april-7-2020,avon-by-the-sea,8
+april-7-2020,belmar,4
+april-7-2020,bradley beach,11
+april-7-2020,brielle,12
+april-7-2020,colts neck township,33
+april-7-2020,deal,19
+april-7-2020,eatontown,73
+april-7-2020,englishtown,11
+april-7-2020,fair haven,15
+april-7-2020,farmingdale,9
+april-7-2020,freehold township,181
+april-7-2020,hazlet,100
+april-7-2020,highlands,8
+april-7-2020,holmdel township,80
+april-7-2020,howell township,226
+april-7-2020,keansburg,35
+april-7-2020,keyport,24
+april-7-2020,lake como,5
+april-7-2020,little silver,21
+april-7-2020,loch arbour,1
+april-7-2020,long branch,117
+april-7-2020,manalapan township,228
+april-7-2020,manasquan,20
+april-7-2020,marlboro township,205
+april-7-2020,matawan,56
+april-7-2020,middletown township,232
+april-7-2020,millstone,2
+april-7-2020,monmouth beach,11
+april-7-2020,neptune township,130
+april-7-2020,oceanport,31
+april-7-2020,red bank,49
+april-7-2020,roosevelt,2
+april-7-2020,rumson,23
+april-7-2020,sea bright,6
+april-7-2020,sea girt,8
+april-7-2020,shrewsbury,20
+april-7-2020,shrewsbury township,3
+april-7-2020,spring lake,6
+april-7-2020,spring lake heights,10
+april-7-2020,tinton falls,41
+april-7-2020,union beach,15
+april-7-2020,upper freehold township,22
+april-7-2020,wall township,91
+april-7-2020,west long branch,28
+april-7-2020,boonton,44
+april-7-2020,boonton township,18
+april-7-2020,butler,28
+april-7-2020,chatham township,26
+april-7-2020,chester township,14
+april-7-2020,denville township,54
+april-7-2020,dover,160
+april-7-2020,east hanover township,65
+april-7-2020,florham park,60
+april-7-2020,hanover township,56
+april-7-2020,harding township,16
+april-7-2020,jefferson township,58
+april-7-2020,kinnelon,25
+april-7-2020,lincoln park,90
+april-7-2020,long hill township,24
+april-7-2020,madison,49
+april-7-2020,mendham township,23
+april-7-2020,mine hill township,17
+april-7-2020,montville,101
+april-7-2020,morris plains,22
+april-7-2020,morris township,112
+april-7-2020,morristown,146
+april-7-2020,mount arlington,12
+april-7-2020,mount olive township,90
+april-7-2020,mountain lakes,8
+april-7-2020,netcong,11
+april-7-2020,parsippany-troy hills,218
+april-7-2020,pequannock township,59
+april-7-2020,randolph,109
+april-7-2020,riverdale,17
+april-7-2020,rockaway,33
+april-7-2020,rockaway township,97
+april-7-2020,roxbury township,81
+april-7-2020,victory gardens,11
+april-7-2020,wharton,56
+april-7-2020,barnegat township,60
+april-7-2020,barnegat light,2
+april-7-2020,bay head,2
+april-7-2020,beach haven,3
+april-7-2020,beachwood,31
+april-7-2020,berkeley township,156
+april-7-2020,brick township,285
+april-7-2020,eagleswood township,1
+april-7-2020,island heights,2
+april-7-2020,jackson township,213
+april-7-2020,lacey township,59
+april-7-2020,lakehurst,4
+april-7-2020,lakewood township,825
+april-7-2020,lavallette,5
+april-7-2020,little egg harbor township,23
+april-7-2020,long beach township,8
+april-7-2020,manchester township,121
+april-7-2020,ocean gate,1
+april-7-2020,plumsted township,17
+april-7-2020,point pleasant beach,10
+april-7-2020,point pleasant,63
+april-7-2020,seaside heights,13
+april-7-2020,seaside park,3
+april-7-2020,ship bottom,5
+april-7-2020,south toms river,26
+april-7-2020,surf city,2
+april-7-2020,stafford township,57
+april-7-2020,toms river,385
+april-7-2020,tuckerton,2
+april-7-2020,bloomingdale,52
+april-7-2020,clifton,401
+april-7-2020,haledon,52
+april-7-2020,hawthorne,129
+april-7-2020,little falls,40
+april-7-2020,north haledon,43
+april-7-2020,passaic,409
+april-7-2020,paterson,947
+april-7-2020,pompton lakes,60
+april-7-2020,prospect park,49
+april-7-2020,ringwood,41
+april-7-2020,totowa,67
+april-7-2020,wanaque,82
+april-7-2020,wayne,261
+april-7-2020,west milford,86
+april-7-2020,woodland park,64
+april-7-2020,alloway township,3
+april-7-2020,carneys point township,1
+april-7-2020,elmer,1
+april-7-2020,lower alloways creek township,1
+april-7-2020,oldmans township,1
+april-7-2020,quinton township,1
+april-7-2020,penns grove,6
+april-7-2020,pennsville township,6
+april-7-2020,pilesgrove township,1
+april-7-2020,salem,2
+april-7-2020,upper pittsgrove township,1
+april-7-2020,woodstown,3
+april-7-2020,bedminster,17
+april-7-2020,bernards township,60
+april-7-2020,bernardsville,24
+april-7-2020,bound brook,35
+april-7-2020,branchburg,34
+april-7-2020,bridgewater township,98
+april-7-2020,far hills,2
+april-7-2020,green brook township,44
+april-7-2020,hillsborough township,76
+april-7-2020,manville,34
+april-7-2020,montgomery,30
+april-7-2020,north plainfield,74
+april-7-2020,peapack and gladstone,16
+april-7-2020,raritan,18
+april-7-2020,rocky hill,3
+april-7-2020,somerville,28
+april-7-2020,south bound brook,13
+april-7-2020,warren township,32
+april-7-2020,watchung,28
+april-7-2020,andover,2
+april-7-2020,andover township,36
+april-7-2020,branchville,3
+april-7-2020,byram township,14
+april-7-2020,frankford township,12
+april-7-2020,fredon township,5
+april-7-2020,green township,4
+april-7-2020,hamburg,8
+april-7-2020,hardyston township,14
+april-7-2020,hopatcong,38
+april-7-2020,lafayette township,2
+april-7-2020,montague township,3
+april-7-2020,newton,35
+april-7-2020,ogdensburg,4
+april-7-2020,sandyston township,2
+april-7-2020,sparta township,46
+april-7-2020,stanhope,8
+april-7-2020,sussex,5
+april-7-2020,vernon township,27
+april-7-2020,wantage township,18
+april-7-2020,berkeley heights,39
+april-7-2020,clark,66
+april-7-2020,cranford,123
+april-7-2020,elizabeth,1
+april-7-2020,garwood,16
+april-7-2020,kenilworth,30
+april-7-2020,linden,304
+april-7-2020,mountainside,9
+april-7-2020,new providence,37
+april-7-2020,plainfield,251
+april-7-2020,rahway,142
+april-7-2020,roselle,176
+april-7-2020,roselle park,24
+april-7-2020,scotch plains,85
+april-7-2020,summit,85
+april-7-2020,westfield,81
+april-7-2020,allamuchy township,11
+april-7-2020,alpha,2
+april-7-2020,belvidere,6
+april-7-2020,blairstown,5
+april-7-2020,frelinghuysen township,3
+april-7-2020,hackettstown,20
+april-7-2020,hardwick township,3
+april-7-2020,harmony township,6
+april-7-2020,hope township,8
+april-7-2020,independence township,6
+april-7-2020,knowlton township,7
+april-7-2020,liberty township,4
+april-7-2020,lopatcong township,32
+april-7-2020,phillipsburg,40
+april-7-2020,pohatcong township,8
+april-7-2020,washington,10
+april-7-2020,white township,20
