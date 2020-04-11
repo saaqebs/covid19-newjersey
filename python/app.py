@@ -28,6 +28,7 @@ full_errors = {
     'pine hil': ' pine hill',
     'tewsbury': 'tewksbury',
     'hardick': 'hardwick',
+    'medford township': 'medford',
 }
 
 
