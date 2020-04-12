@@ -16,7 +16,7 @@ The data is stored in a CSV file format for an ongoing compilation of the number
 | march-25-2020 | alpine          | 1               |
 | ...           | ...             | ...             |
 
-The "Date" column is structured as `{month name}-{day}-{year}`. The "NJ Municipality" variable contains the official municipality name as posted in [`nj_municipals.txt`](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_municipals.txt). The "Number of Cases" column is simply an integer indicating the number of cases.
+The "Date" column is structured as `{month name}-{day}-{year}`. The "Municipal" variable contains the official municipality name as posted in [`nj_municipals.txt`](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_municipals.txt). The "Cases" column is simply an integer indicating the number of cases.
 
 ## Municipality Data from Today
 
