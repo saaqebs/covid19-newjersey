@@ -6,7 +6,7 @@ import csv
 import re
 
 
-nj_municipals = set(line.strip() for line in open('../nj_municipals.txt'))
+nj_municipals = set(line.strip() for line in open('nj_municipals.txt'))
 
 
 def get_current_date():
