@@ -29,6 +29,7 @@ full_errors = {
     'tewsbury': 'tewksbury',
     'hardick': 'hardwick',
     'medford township': 'medford',
+    'pembertonugh': 'pemberton'
 }
 
 
