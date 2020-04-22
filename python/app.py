@@ -11,7 +11,8 @@ sub_errors = {
     'oldsman': 'oldmans',
     'bryram': 'byram',
     ' borough': '',
-    ' city': ''
+    ' city': '',
+    '*': ''
 }
 
 full_errors = {

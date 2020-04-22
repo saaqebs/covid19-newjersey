@@ -94,7 +94,8 @@ def load_covid_data_into_dict(uncleaned_data, substring_errors, fullstring_error
     for row in uncleaned_data:
         infected_township = re.split(':', row)
         town = infected_township[0].strip()
-        num_infected = int(infected_township[1].replace(',', '').strip())
+        unclean_number = infected_township[1].replace(',', '').strip()
+        num_infected = int(re.findall('^\d+', unclean_number)[0])
 
         for error in substring_errors.keys():
             town = town.replace(error, substring_errors[error])
