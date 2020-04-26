@@ -41,7 +41,7 @@ The format of `last fetched` is `{month name}-{day}-{year}`. However, `data` is 
 
 ## Additional Notes
 
-Some counties have not been reporting the number of cases per township, creating a discord between other counties. As of April 8th, only Atlantic County has not posted their numbers while the rest have.
+As of April 26, all counties have been reporting township case numbers. However, some counties began disclosing the data later than other counties, creating a discord in the data.
 
 Most counties with high rates of infection have been posting daily, but other counties have been updating a variable amount of days.
 
