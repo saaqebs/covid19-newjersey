@@ -41,8 +41,12 @@ The format of `last fetched` is `{month name}-{day}-{year}`. However, `data` is 
 
 ## Additional Notes
 
-As of April 26, all counties have been reporting township case numbers. However, some counties began disclosing the data later than other counties, creating a discord in the data.
+As of April 26, all counties have been reporting township case numbers. However, some counties began disclosing the data later than other counties (eg. Atlantic and Mercer County), creating a discord in the data. 
 
-Most counties with high rates of infection have been posting daily, but other counties have been updating a variable amount of days.
+There was no publication of data on May 1, 2020. This is the only day that they did not publish an article with the updated data since March 25, 2020. 
+
+Most (if not all) counties with high rates of infection have been posting daily, but other counties have been updating a variable amount of days.
+
+**Important:** I recently found a bug of duplicate municipality names and am actively working on fixing it. (5/1/2020) 
 
 Visit [NJ.com/coronavirus](https://www.nj.com/coronavirus/) for more information regarding COVID-19 in New Jersey.
