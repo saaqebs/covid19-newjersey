@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Extra
-*/abnormal\ data
+notebooks/
 
 # Distribution / packaging
 .Python
@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 notebooks/NJMunicipals.ipynb
+.vscode/settings.json
