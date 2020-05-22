@@ -26,7 +26,7 @@ def replace_town(row, county, visited_municipal):
     city = town + ' city'
     borough = town + ' borough'
     
-    if town == 'address not reported' or town == 'unknown':
+    if town == 'address not reported' or town == 'no town' or town == 'unknown':
         return 'other', num_infected
         
     elif town in visited_municipal and visited_municipal[town] == False:
@@ -89,4 +89,4 @@ def Update(df, filepath):
 
 def Today(df, date, filepath):
     today_df = df[df['Date'] == date]
-    today_df.to_json(orient='records')  
+    today_df.to_json(filepath, orient='records')  
