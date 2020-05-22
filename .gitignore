@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Extra
+notebooks/
+
 # Distribution / packaging
 .Python
 build/
@@ -125,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 notebooks/NJMunicipals.ipynb
+.vscode/settings.json
