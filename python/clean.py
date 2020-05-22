@@ -77,7 +77,7 @@ def load_dataframe(data, covid_df, date, municipals=nj_municipals):
     return covid_df.append(pd.concat(todays_data), ignore_index=True).copy()
 
 
-def clean(filepath, data, date):
+def Clean(filepath, data, date):
     total_df = pd.read_csv(filepath)
     updated_df = load_dataframe(data, total_df, date)
     return updated_df
