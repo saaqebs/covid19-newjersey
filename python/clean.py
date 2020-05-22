@@ -2,8 +2,8 @@ import pandas as pd
 import json, re
 
 errors = json.load(open('./json/errors.json'))
-substring_errs = errors.substring_errors
-fullstring_errs = errors.fullstring_errors
+substring_errs = errors[0]
+fullstring_errs = errors[1]
 
 
 def check_errors(town):

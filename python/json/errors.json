@@ -1,5 +1,5 @@
-{
-    "substring_errors": {
+[
+    {
         "pemberton boro": "pemberton",
         "parsippany": "parsippany-troy hills",
         "south orange": "south orange village",
@@ -10,7 +10,7 @@
         "twp": "township",
         ".": ""
     },
-    "fullstring_errors": {
+    {
         "peapack-gladstone": "peapack and gladstone",
         "pepack-gladstone": "peapack and gladstone",
         "clinton town": "clinton",
@@ -42,4 +42,4 @@
         "pleantville": "pleasantville",
         "mantolocking": "mantoloking"
     }
-}
+]
