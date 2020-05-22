@@ -10,7 +10,7 @@ csv_file = '../nj_total.csv'
 
 
 def __main__():
-    nj_municipals = json.load(open('nj_municipals.json'))
+    nj_municipals = json.load(open('./json/nj_municipals.json'))
     counties = list(nj_municipals.keys())
 
     if len(sys.argv == 1):

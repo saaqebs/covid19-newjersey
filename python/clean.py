@@ -1,7 +1,7 @@
 import pandas as pd
 import json, re
 
-errors = json.load(open('errors.json'))
+errors = json.load(open('./json/errors.json'))
 substring_errs = errors.substring_errors
 fullstring_errs = errors.fullstring_errors
 
