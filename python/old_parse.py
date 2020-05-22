@@ -65,7 +65,7 @@ def parse_data_from_html(soup):
     article = soup.find_all('article')                 # article component
     data = []
     for row in article[0].find_all('p'):
-        delims = '.+\:\s*\d*,?\d+'
+        delims = r'.+\:\s*\d*,?\d+'
         statistic = row.getText().lower()
 
         if '• springfield ' in statistic:
@@ -96,7 +96,7 @@ def load_covid_data_into_dict(uncleaned_data, substring_errors, fullstring_error
         infected_township = re.split(':', row)
         town = infected_township[0].strip()
         unclean_number = infected_township[1].replace(',', '').strip()
-        num_infected = int(re.findall('^\d+', unclean_number)[0])
+        num_infected = int(re.findall(r'^\d+', unclean_number)[0])
 
         for error in substring_errors.keys():
             town = town.replace(error, substring_errors[error])

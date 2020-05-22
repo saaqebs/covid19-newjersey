@@ -1,12 +1,12 @@
 import pandas as pd
-import json
+import json, re
+
+errors = json.load(open('errors.json'))
+substring_errs = errors.substring_errors
+fullstring_errs = errors.fullstring_errors
 
 
-nj_municipals = json.load(open('nj_municipals.json'))
-counties = list(nj_municipals.keys())
-
-
-def check_errors(town, fullstring_errs, substring_errs):
+def check_errors(town):
     for error in substring_errs.keys():
         town = town.replace(error,substring_errs[error])
         
@@ -20,7 +20,7 @@ def check_errors(town, fullstring_errs, substring_errs):
 def replace_town(row, county, visited_municipal):
     infected_township = re.split(':',row)
     town = check_errors(infected_township[0].strip()).strip()
-    num_infected = int(re.findall('^\d+',infected_township[1].replace(',','').strip())[0])
+    num_infected = int(re.findall(r'^\d+',infected_township[1].replace(',','').strip())[0])
     
     township = town + ' township'
     city = town + ' city'
@@ -50,12 +50,12 @@ def replace_town(row, county, visited_municipal):
         return '',-1
 
 
-def load_dataframe(data, covid_df, date, municipals=nj_municipals):
+def load_dataframe(data, covid_df, date, municipals):
     todays_data = []
     current_county = ''
 
     for row in data:
-        if row in counties:
+        if row in list(municipals.keys()):
             current_county = row
             continue
 
@@ -77,8 +77,16 @@ def load_dataframe(data, covid_df, date, municipals=nj_municipals):
     return covid_df.append(pd.concat(todays_data), ignore_index=True).copy()
 
 
-def Clean(filepath, data, date):
+def Clean(filepath, data, date, municipals):
     total_df = pd.read_csv(filepath)
-    updated_df = load_dataframe(data, total_df, date)
+    updated_df = load_dataframe(data, total_df, date, municipals)
     return updated_df
 
+
+def Update(df, filepath):
+    df.to_csv(filepath, mode='w', index=False)
+
+
+def Today(df, date, filepath):
+    today_df = df[df['Date'] == date]
+    today_df.to_json(orient='records')  
