@@ -31,7 +31,7 @@ def parse_data(article, counties):
     data = []
     print('PARSING ERRORS:')
     for row in article.find_all('p'):
-        delims = '.+\:\s*\d*,?\d+'
+        delims = r'.+\:\s*\d*,?\d+'
         statistic = row.getText().lower()
 
         if ':' in statistic and '•' in statistic:
