@@ -15,6 +15,9 @@ def __main__():
 
     if len(sys.argv) == 1:
         url, date = Link()
+    elif len(sys.argv) == 2:
+        _, date = Link()
+        url = sys.argv[1]
     else: 
         url = sys.argv[1]
         date = sys.argv[2]
