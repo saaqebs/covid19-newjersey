@@ -6,6 +6,7 @@
         "oldsman": "oldmans",
         "bryram": "byram",
         "wantgage": "wantage",
+        "-waretown": "",
         "*": "",
         "twp": "township",
         ".": ""
@@ -39,7 +40,14 @@
         "andover borough": "andover",
         "sussex borough": "sussex",
         "washington borough": "washington",
+        "washington boro": "washington",
         "pleantville": "pleasantville",
-        "mantolocking": "mantoloking"
+        "mantolocking": "mantoloking",
+        "franklin borough": "franklin",
+        "cape may city": "cape may",
+        "freylinghuysen": "frelinghuysen",
+        "woodlyne": "woodlynne",
+        "berlin boro": "berlin",
+        "beverly city": "beverly"
     }
 ]
