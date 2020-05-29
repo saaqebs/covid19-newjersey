@@ -1,6 +1,6 @@
 # Coronavirus (COVID-19) Data in New Jersey
 [
-[ Township data from March 25, 2020 - Present](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_total.csv)  |  [Today's township data](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_today.json) ]
+[ Township data from March 25, 2020 - Present](https://github.com/saaqebs/covid19-newjersey/blob/master/nj_total.csv) ([Raw CSV](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_total.csv))  |  [Today's township data](https://github.com/saaqebs/covid19-newjersey/blob/master/nj_today.json) ([Raw CSV](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_today.json)) ]
 
 This repository contains the latest up to date number of positive coronavirus cases there are in New Jersey. The data is counted by municipality, focusing the scope of the number of cases in New Jersey.
 
@@ -22,19 +22,19 @@ The "Date" column is structured as `{month name}-{day}-{year}`. The "Municipal" 
 
 This data is collected everyday from nj.com and stored into a [JSON file](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_today.json). The file structure is stored as such:
 
-```
+```json
 {
     "last fetched": "april-7-2020",
     "data": {
         "bergen county" : {
             "allendale": 27, 
             "alpine": 15, 
-            ...
-        }
+            // ...
+        },
         "essex county" : {
-            ...
+            // ...
         }
-        ..
+        // ...
     }
 }
 
@@ -53,5 +53,7 @@ There was no publication of data on May 1, 2020. This is the only day that they 
 Most (if not all) counties with high rates of infection have been posting daily, but other counties have been updating a variable amount of days.
 
 ~~I recently found a bug of duplicate municipality names and am actively working on fixing it. (5/1/2020)~~
+
+Visit [this page](https://github.com/saaqebs/analytics-coronavirus-nj) for a brief article discussing some elementary analytics conducted on this dataset! 
 
 Visit [NJ.com/coronavirus](https://www.nj.com/coronavirus/) for more information regarding COVID-19 in New Jersey.
