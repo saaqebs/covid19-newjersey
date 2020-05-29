@@ -77,6 +77,20 @@ def load_dataframe(data, covid_df, date, municipals):
     return covid_df.append(pd.concat(todays_data), ignore_index=True).copy()
 
 
+def dataframe_to_json(df, counties):
+    data = {}
+    for county in counties:
+        county_df = df[df['County'] == county]
+
+        curr_county_data = {}
+        for _, row in county_df.iterrows():
+            curr_county_data[row['Municipal']] = row['Cases']
+
+        data[county] = curr_county_data
+
+    return data
+        
+
 def Clean(filepath, data, date, municipals):
     total_df = pd.read_csv(filepath)
     updated_df = load_dataframe(data, total_df, date, municipals)
@@ -87,6 +101,11 @@ def Update(df, filepath):
     df.to_csv(filepath, mode='w', index=False)
 
 
-def Today(df, date, filepath):
+def Today(df, date, counties, filepath):
     today_df = df[df['Date'] == date]
-    today_df.to_json(filepath, orient='records')  
+    today_json = {
+        "last-fetched" : date,
+        "data" : dataframe_to_json(df, counties)
+    }
+    json.dump(today_json, filepath)
+    # today_df.to_json(filepath, orient='records')  

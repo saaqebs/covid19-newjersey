@@ -27,7 +27,7 @@ def __main__():
     data = Parse(url, counties)
     total_df = Clean(csv_file, data, date, nj_municipals)
     Update(total_df, csv_file)
-    Today(total_df, date, json_file)
+    Today(total_df, date, counties, json_file)
 
 
 
