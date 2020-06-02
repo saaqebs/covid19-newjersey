@@ -107,5 +107,6 @@ def Today(df, date, counties, filepath):
         "last-fetched" : date,
         "data" : dataframe_to_json(today_df, counties)
     }
-    json.dump(today_json, filepath)
+    with open(filepath, 'w') as datafile:
+        json.dump(today_json,datafile)
     # today_df.to_json(filepath, orient='records')  
