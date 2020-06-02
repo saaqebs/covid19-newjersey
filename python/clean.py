@@ -105,7 +105,7 @@ def Today(df, date, counties, filepath):
     today_df = df[df['Date'] == date]
     today_json = {
         "last-fetched" : date,
-        "data" : dataframe_to_json(df, counties)
+        "data" : dataframe_to_json(today_df, counties)
     }
     json.dump(today_json, filepath)
     # today_df.to_json(filepath, orient='records')  
