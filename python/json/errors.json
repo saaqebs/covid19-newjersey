@@ -9,7 +9,8 @@
         "-waretown": "",
         "*": "",
         "twp": "township",
-        ".": ""
+        ".": "",
+        "bue": "buena"
     },
     {
         "peapack-gladstone": "peapack and gladstone",
@@ -48,6 +49,7 @@
         "freylinghuysen": "frelinghuysen",
         "woodlyne": "woodlynne",
         "berlin boro": "berlin",
-        "beverly city": "beverly"
+        "beverly city": "beverly",
+        "cin minson": "cinnaminson"
     }
 ]
