@@ -9,7 +9,8 @@
         "-waretown": "",
         "*": "",
         "twp": "township",
-        ".": ""
+        ".": "",
+        "0": "na"
     },
     {
         "peapack-gladstone": "peapack and gladstone",
@@ -49,6 +50,7 @@
         "woodlyne": "woodlynne",
         "berlin boro": "berlin",
         "beverly city": "beverly",
-        "cin minson": "cinnaminson"
+        "cin minson": "cinnaminson",
+        "national park borough": "national park"
     }
 ]
