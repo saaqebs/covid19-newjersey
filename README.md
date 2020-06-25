@@ -54,6 +54,8 @@ Most (if not all) counties with high rates of infection have been posting daily,
 
 ~~I recently found a bug of duplicate municipality names and am actively working on fixing it. (5/1/2020)~~
 
+No data was logged on 6/23/2020.
+
 Visit [this page](https://github.com/saaqebs/analytics-coronavirus-nj) for a brief article discussing some elementary analytics conducted on this dataset! 
 
 Visit [NJ.com/coronavirus](https://www.nj.com/coronavirus/) for more information regarding COVID-19 in New Jersey.
