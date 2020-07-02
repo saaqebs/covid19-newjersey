@@ -48,9 +48,9 @@ The format of `last fetched` is `{month name}-{day}-{year}`. However, `data` is 
 
 As of April 26, 2020, all counties have been reporting township case numbers. However, some counties began disclosing the data later than other counties (eg. Atlantic and Mercer County), creating a discord in the data. 
 
-There was no publication of data on 5/1/20 and 6/23/20. This is the only day that they did not publish an article with the updated data since March 25, 2020. 
+There was no publication of data on 5/1/20 and 6/23/20. There was also no data published from 6/28/20 - 6/30/20 (3 days). This is the only day that they did not publish an article with the updated data since March 25, 2020.
 
-Most (if not all) counties with high rates of infection have been posting daily, but other counties have been updating a variable amount of days.
+Most (if not all) counties have been posting numbers daily, but other counties have been updating a variable amount of days.
 
 Visit [this page](https://github.com/saaqebs/analytics-coronavirus-nj) for a brief article discussing some elementary analytics conducted on this dataset! 
 
