@@ -1,10 +1,12 @@
 # Coronavirus (COVID-19) Data in New Jersey
 [
-[ Township data from March 25, 2020 - Present](https://github.com/saaqebs/covid19-newjersey/blob/master/nj_total.csv) ([Raw CSV](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_total.csv))  |  [Today's township data](https://github.com/saaqebs/covid19-newjersey/blob/master/nj_today.json) ([Raw CSV](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_today.json)) ]
+[ Township data from March 25, 2020 - Present*](https://github.com/saaqebs/covid19-newjersey/blob/master/nj_total.csv) ([Raw CSV](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_total.csv))  |  [Today's township data](https://github.com/saaqebs/covid19-newjersey/blob/master/nj_today.json) ([Raw CSV](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_today.json)) ]
 
 This repository contains the latest up to date number of positive coronavirus cases there are in New Jersey. The data is counted by municipality, focusing the scope of the number of cases in New Jersey.
 
 This data is collected and recorded by different counties in NJ, which is then compiled and posted in articles by [NJ.com](https://www.nj.com/coronavirus/). 
+
+*As of October 2020, NJ.com has not collected the data per township. Work is being done to find the data from another source.
 
 ## Municipality Data from March 26, 2020 - Present
 
