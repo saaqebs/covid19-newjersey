@@ -44,11 +44,25 @@ The file structure is much different from the cumulative data, but the variable 
 
 The format of `last fetched` is `{month name}-{day}-{year}`. However, `data` is stored in a dictionary format where the key is a New Jersey county. The countyies then point to a dictionary containing the municipality name as prescribed from [`nj_municipals.txt`](https://raw.githubusercontent.com/saaqebs/covid19-newjersey/master/nj_municipals.txt)while the value is the number of positive cases in integer format.
 
+## Data Publication Dates 
+_Note: The sparse data publicaiton dates start from the summer 2020. Prior to July 2020, data was published daily._
+
+| Month     | Dates                  |
+|-----------|------------------------|
+| July      | 1-4, 8, 16, 18, 23, 30 |
+| August    | 1, 7, 13, 15, 20, 27   |
+| September | 3, 10, 17, 24          |
+
 ## Additional Notes
+_Note: The publication of this data has been discontinued on NJ.com's website._
 
-As of April 26, 2020, all counties have been reporting township case numbers. However, some counties began disclosing the data later than other counties (eg. Atlantic and Mercer County), creating a discord in the data. 
+As of April 26, 2020, all counties have been reporting township case numbers. However, some counties began disclosing the data earlier than other counties (eg. Atlantic and Mercer County), creating a discord in the data. 
 
-There was no publication of data on 5/1/20 and 6/23/20. There was also no data published from 6/28/20 - 6/30/20 (3 days). This is the only day that they did not publish an article with the updated data since March 25, 2020.
+There was no publication of data on 5/1/20 and 6/23/20. There was also no data published from 6/28/20 - 6/30/20 (3 days). 
+
+Starting from July, NJ.com has been slowing down the daily publication of the data. Instead, they went with a sparse approach by providing an update every 5-8 days.
+
+Starting from September 10th 2020, Somerset County combined Hillsborough Township and Millstone Township into one combined district for case reportings. The data is listed under Hillsborough from this date onwards.
 
 Most (if not all) counties have been posting numbers daily, but other counties have been updating a variable amount of days.
 

@@ -52,6 +52,9 @@
         "beverly city": "beverly",
         "cin minson": "cinnaminson",
         "national park borough": "national park",
-        "unknown town": "unknown"
+        "unknown town": "unknown",
+        "unknown/other": "unknown",
+        "no town confirmed": "unknown",
+        "hillsborough/millstone": "hillsborough"
     }
 ]
