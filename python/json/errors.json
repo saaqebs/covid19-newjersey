@@ -51,6 +51,7 @@
         "berlin boro": "berlin",
         "beverly city": "beverly",
         "cin minson": "cinnaminson",
-        "national park borough": "national park"
+        "national park borough": "national park",
+        "unknown town": "unknown"
     }
 ]
